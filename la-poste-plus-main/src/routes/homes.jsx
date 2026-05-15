@@ -115,7 +115,7 @@ function HomePage() {
             icon={BarChart3}
             colorClass="bg-blue-500 text-white"
             delay={100}
-            onClick={() => navigate({ to: "/_app/dashboard" })}
+            onClick={() => navigate({ to: "/dashboard" })}
           />
           <ActionCard 
             title="Machine Learning"
@@ -123,7 +123,7 @@ function HomePage() {
             icon={BrainCircuit}
             colorClass="bg-indigo-500 text-white"
             delay={200}
-            onClick={() => navigate({ to: "/Ml" })}
+            onClick={() => navigate({ to: "/ml" })}
           /> 
           <ActionCard 
             title="Paramètres"

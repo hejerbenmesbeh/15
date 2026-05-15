@@ -12,9 +12,10 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as RegisterRouteImport } from './routes/register'
 import { Route as LoginRouteImport } from './routes/login'
 import { Route as HomesRouteImport } from './routes/homes'
-import { Route as MlRouteImport } from './routes/Ml'
+import { Route as AppRouteImport } from './routes/_app'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AppProfileRouteImport } from './routes/_app.profile'
+import { Route as AppMlRouteImport } from './routes/_app.ml'
 import { Route as AppDashboardRouteImport } from './routes/_app.dashboard'
 
 const RegisterRoute = RegisterRouteImport.update({
@@ -32,9 +33,8 @@ const HomesRoute = HomesRouteImport.update({
   path: '/homes',
   getParentRoute: () => rootRouteImport,
 } as any)
-const MlRoute = MlRouteImport.update({
-  id: '/Ml',
-  path: '/Ml',
+const AppRoute = AppRouteImport.update({
+  id: '/_app',
   getParentRoute: () => rootRouteImport,
 } as any)
 const IndexRoute = IndexRouteImport.update({
@@ -47,6 +47,11 @@ const AppProfileRoute = AppProfileRouteImport.update({
   path: '/profile',
   getParentRoute: () => AppRoute,
 } as any)
+const AppMlRoute = AppMlRouteImport.update({
+  id: '/ml',
+  path: '/ml',
+  getParentRoute: () => AppRoute,
+} as any)
 const AppDashboardRoute = AppDashboardRouteImport.update({
   id: '/dashboard',
   path: '/dashboard',
@@ -55,65 +60,67 @@ const AppDashboardRoute = AppDashboardRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/Ml': typeof MlRoute
   '/homes': typeof HomesRoute
   '/login': typeof LoginRoute
   '/register': typeof RegisterRoute
   '/dashboard': typeof AppDashboardRoute
+  '/ml': typeof AppMlRoute
   '/profile': typeof AppProfileRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/Ml': typeof MlRoute
   '/homes': typeof HomesRoute
   '/login': typeof LoginRoute
   '/register': typeof RegisterRoute
   '/dashboard': typeof AppDashboardRoute
+  '/ml': typeof AppMlRoute
   '/profile': typeof AppProfileRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/Ml': typeof MlRoute
+  '/_app': typeof AppRouteWithChildren
   '/homes': typeof HomesRoute
   '/login': typeof LoginRoute
   '/register': typeof RegisterRoute
   '/_app/dashboard': typeof AppDashboardRoute
+  '/_app/ml': typeof AppMlRoute
   '/_app/profile': typeof AppProfileRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
-    | '/Ml'
     | '/homes'
     | '/login'
     | '/register'
     | '/dashboard'
+    | '/ml'
     | '/profile'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
-    | '/Ml'
     | '/homes'
     | '/login'
     | '/register'
     | '/dashboard'
+    | '/ml'
     | '/profile'
   id:
     | '__root__'
     | '/'
-    | '/Ml'
+    | '/_app'
     | '/homes'
     | '/login'
     | '/register'
     | '/_app/dashboard'
+    | '/_app/ml'
     | '/_app/profile'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  MlRoute: typeof MlRoute
+  AppRoute: typeof AppRouteWithChildren
   HomesRoute: typeof HomesRoute
   LoginRoute: typeof LoginRoute
   RegisterRoute: typeof RegisterRoute
@@ -142,11 +149,11 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HomesRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/Ml': {
-      id: '/Ml'
-      path: '/Ml'
-      fullPath: '/Ml'
-      preLoaderRoute: typeof MlRouteImport
+    '/_app': {
+      id: '/_app'
+      path: ''
+      fullPath: '/'
+      preLoaderRoute: typeof AppRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/': {
@@ -163,6 +170,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AppProfileRouteImport
       parentRoute: typeof AppRoute
     }
+    '/_app/ml': {
+      id: '/_app/ml'
+      path: '/ml'
+      fullPath: '/ml'
+      preLoaderRoute: typeof AppMlRouteImport
+      parentRoute: typeof AppRoute
+    }
     '/_app/dashboard': {
       id: '/_app/dashboard'
       path: '/dashboard'
@@ -173,9 +187,23 @@ declare module '@tanstack/react-router' {
   }
 }
 
+interface AppRouteChildren {
+  AppDashboardRoute: typeof AppDashboardRoute
+  AppMlRoute: typeof AppMlRoute
+  AppProfileRoute: typeof AppProfileRoute
+}
+
+const AppRouteChildren: AppRouteChildren = {
+  AppDashboardRoute: AppDashboardRoute,
+  AppMlRoute: AppMlRoute,
+  AppProfileRoute: AppProfileRoute,
+}
+
+const AppRouteWithChildren = AppRoute._addFileChildren(AppRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  MlRoute: MlRoute,
+  AppRoute: AppRouteWithChildren,
   HomesRoute: HomesRoute,
   LoginRoute: LoginRoute,
   RegisterRoute: RegisterRoute,
