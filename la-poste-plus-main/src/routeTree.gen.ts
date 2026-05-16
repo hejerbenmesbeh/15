@@ -10,17 +10,26 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as RegisterRouteImport } from './routes/register'
+import { Route as ProfileRouteImport } from './routes/profile'
+import { Route as MlRouteImport } from './routes/ml'
 import { Route as LoginRouteImport } from './routes/login'
 import { Route as HomesRouteImport } from './routes/homes'
-import { Route as AppRouteImport } from './routes/_app'
+import { Route as DashboardRouteImport } from './routes/dashboard'
 import { Route as IndexRouteImport } from './routes/index'
-import { Route as AppProfileRouteImport } from './routes/_app.profile'
-import { Route as AppMlRouteImport } from './routes/_app.ml'
-import { Route as AppDashboardRouteImport } from './routes/_app.dashboard'
 
 const RegisterRoute = RegisterRouteImport.update({
   id: '/register',
   path: '/register',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProfileRoute = ProfileRouteImport.update({
+  id: '/profile',
+  path: '/profile',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MlRoute = MlRouteImport.update({
+  id: '/ml',
+  path: '/ml',
   getParentRoute: () => rootRouteImport,
 } as any)
 const LoginRoute = LoginRouteImport.update({
@@ -33,8 +42,9 @@ const HomesRoute = HomesRouteImport.update({
   path: '/homes',
   getParentRoute: () => rootRouteImport,
 } as any)
-const AppRoute = AppRouteImport.update({
-  id: '/_app',
+const DashboardRoute = DashboardRouteImport.update({
+  id: '/dashboard',
+  path: '/dashboard',
   getParentRoute: () => rootRouteImport,
 } as any)
 const IndexRoute = IndexRouteImport.update({
@@ -42,87 +52,72 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
-const AppProfileRoute = AppProfileRouteImport.update({
-  id: '/profile',
-  path: '/profile',
-  getParentRoute: () => AppRoute,
-} as any)
-const AppMlRoute = AppMlRouteImport.update({
-  id: '/ml',
-  path: '/ml',
-  getParentRoute: () => AppRoute,
-} as any)
-const AppDashboardRoute = AppDashboardRouteImport.update({
-  id: '/dashboard',
-  path: '/dashboard',
-  getParentRoute: () => AppRoute,
-} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/dashboard': typeof DashboardRoute
   '/homes': typeof HomesRoute
   '/login': typeof LoginRoute
+  '/ml': typeof MlRoute
+  '/profile': typeof ProfileRoute
   '/register': typeof RegisterRoute
-  '/dashboard': typeof AppDashboardRoute
-  '/ml': typeof AppMlRoute
-  '/profile': typeof AppProfileRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/dashboard': typeof DashboardRoute
   '/homes': typeof HomesRoute
   '/login': typeof LoginRoute
+  '/ml': typeof MlRoute
+  '/profile': typeof ProfileRoute
   '/register': typeof RegisterRoute
-  '/dashboard': typeof AppDashboardRoute
-  '/ml': typeof AppMlRoute
-  '/profile': typeof AppProfileRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/_app': typeof AppRouteWithChildren
+  '/dashboard': typeof DashboardRoute
   '/homes': typeof HomesRoute
   '/login': typeof LoginRoute
+  '/ml': typeof MlRoute
+  '/profile': typeof ProfileRoute
   '/register': typeof RegisterRoute
-  '/_app/dashboard': typeof AppDashboardRoute
-  '/_app/ml': typeof AppMlRoute
-  '/_app/profile': typeof AppProfileRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/dashboard'
     | '/homes'
     | '/login'
-    | '/register'
-    | '/dashboard'
     | '/ml'
     | '/profile'
+    | '/register'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
+    | '/dashboard'
     | '/homes'
     | '/login'
-    | '/register'
-    | '/dashboard'
     | '/ml'
     | '/profile'
+    | '/register'
   id:
     | '__root__'
     | '/'
-    | '/_app'
+    | '/dashboard'
     | '/homes'
     | '/login'
+    | '/ml'
+    | '/profile'
     | '/register'
-    | '/_app/dashboard'
-    | '/_app/ml'
-    | '/_app/profile'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  AppRoute: typeof AppRouteWithChildren
+  DashboardRoute: typeof DashboardRoute
   HomesRoute: typeof HomesRoute
   LoginRoute: typeof LoginRoute
+  MlRoute: typeof MlRoute
+  ProfileRoute: typeof ProfileRoute
   RegisterRoute: typeof RegisterRoute
 }
 
@@ -133,6 +128,20 @@ declare module '@tanstack/react-router' {
       path: '/register'
       fullPath: '/register'
       preLoaderRoute: typeof RegisterRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/profile': {
+      id: '/profile'
+      path: '/profile'
+      fullPath: '/profile'
+      preLoaderRoute: typeof ProfileRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/ml': {
+      id: '/ml'
+      path: '/ml'
+      fullPath: '/ml'
+      preLoaderRoute: typeof MlRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/login': {
@@ -149,11 +158,11 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof HomesRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/_app': {
-      id: '/_app'
-      path: ''
-      fullPath: '/'
-      preLoaderRoute: typeof AppRouteImport
+    '/dashboard': {
+      id: '/dashboard'
+      path: '/dashboard'
+      fullPath: '/dashboard'
+      preLoaderRoute: typeof DashboardRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/': {
@@ -163,49 +172,16 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/_app/profile': {
-      id: '/_app/profile'
-      path: '/profile'
-      fullPath: '/profile'
-      preLoaderRoute: typeof AppProfileRouteImport
-      parentRoute: typeof AppRoute
-    }
-    '/_app/ml': {
-      id: '/_app/ml'
-      path: '/ml'
-      fullPath: '/ml'
-      preLoaderRoute: typeof AppMlRouteImport
-      parentRoute: typeof AppRoute
-    }
-    '/_app/dashboard': {
-      id: '/_app/dashboard'
-      path: '/dashboard'
-      fullPath: '/dashboard'
-      preLoaderRoute: typeof AppDashboardRouteImport
-      parentRoute: typeof AppRoute
-    }
   }
 }
 
-interface AppRouteChildren {
-  AppDashboardRoute: typeof AppDashboardRoute
-  AppMlRoute: typeof AppMlRoute
-  AppProfileRoute: typeof AppProfileRoute
-}
-
-const AppRouteChildren: AppRouteChildren = {
-  AppDashboardRoute: AppDashboardRoute,
-  AppMlRoute: AppMlRoute,
-  AppProfileRoute: AppProfileRoute,
-}
-
-const AppRouteWithChildren = AppRoute._addFileChildren(AppRouteChildren)
-
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  AppRoute: AppRouteWithChildren,
+  DashboardRoute: DashboardRoute,
   HomesRoute: HomesRoute,
   LoginRoute: LoginRoute,
+  MlRoute: MlRoute,
+  ProfileRoute: ProfileRoute,
   RegisterRoute: RegisterRoute,
 }
 export const routeTree = rootRouteImport

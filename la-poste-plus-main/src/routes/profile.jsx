@@ -3,7 +3,7 @@ import { useState } from "react";
 import { CheckCircle2, Lock, User as UserIcon } from "lucide-react";
 import { useAuth } from "../context/AuthContext";
 
-export const Route = createFileRoute("/_app/profile")({
+export const Route = createFileRoute("/profile")({
   head: () => ({
     meta: [{ title: "Mon Profil — Espace agent" }],
   }),

@@ -131,7 +131,7 @@ function HomePage() {
             icon={UserIcon}
             colorClass="bg-amber-500 text-white"
             delay={300}
-            onClick={() => navigate({ to: "/_app/profile" })}
+            onClick={() => navigate({ to: "/profile" })}
           />
         </div>
       </main>

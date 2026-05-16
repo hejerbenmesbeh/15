@@ -1,5 +1,5 @@
 {
-  "include": ["src/**/*.ts", "src/**/*.tsx", "vite.config.js", "eslint.config.js", "src/context/AuthContext.jsx", "src/hooks/use-mobile.jsx", "src/lib/utils.js", "src/components/Logo.jsx", "src/components/Header.jsx", "src/components/Sidebar.jsx", "src/routes/index.jsx", "src/routes/login.jsx", "src/routes/register.jsx", "src/routes/_app.jsx", "src/routes/_app.home.jsx", "src/routes/_app.dashboard.jsx", "src/routes/_app.profile.jsx", "src/routes/__root.jsx", "src/components/LanguageSwitcher.jsx", "src/components/SurveyFloatingButton.jsx", "src/components/DashboardLayout.jsx"],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "vite.config.js", "eslint.config.js", "src/context/AuthContext.jsx", "src/hooks/use-mobile.jsx", "src/lib/utils.js", "src/components/Logo.jsx", "src/components/Header.jsx", "src/components/Sidebar.jsx", "src/routes/index.jsx", "src/routes/login.jsx", "src/routes/register.jsx",  "src/routes/homes.jsx", "src/routes/dashboard.jsx", "src/routes/profile.jsx","src/routes/ml.jsx", "src/routes/__root.jsx", "src/components/LanguageSwitcher.jsx", "src/components/SurveyFloatingButton.jsx", "src/components/DashboardLayout.jsx"],
   "compilerOptions": {
     "target": "ES2022",
     "jsx": "react-jsx",

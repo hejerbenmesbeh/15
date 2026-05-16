@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 import { X, BarChart3 } from "lucide-react";
 
-export const Route = createFileRoute("/_app/dashboard")({
+export const Route = createFileRoute("/dashboard")({
   head: () => ({
     meta: [{ title: "Dashboard PowerBI — Espace agent" }],
   }),

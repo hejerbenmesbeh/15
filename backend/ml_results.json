@@ -1,0 +1,1623 @@
+{
+  "comparaison": {
+    "objectif1": {
+      "modeles": {
+        "Random Forest": {
+          "MAE": 0.913,
+          "R2": -0.0405
+        },
+        "XGBoost": {
+          "MAE": 0.93,
+          "R2": -0.1059
+        },
+        "Gradient Boosting": {
+          "MAE": 0.911,
+          "R2": -0.0464
+        }
+      },
+      "meilleur": "Random Forest"
+    },
+    "objectif2": {
+      "modeles": {
+        "Random Forest": {
+          "Accuracy": 0.4688,
+          "F1": 0.4435
+        },
+        "XGBoost": {
+          "Accuracy": 0.4688,
+          "F1": 0.4339
+        },
+        "Gradient Boosting": {
+          "Accuracy": 0.4656,
+          "F1": 0.449
+        }
+      },
+      "meilleur": "Random Forest"
+    },
+    "objectif3": {
+      "modeles": {
+        "Random Forest": {
+          "MAE": 1.006,
+          "R2": 0.9246
+        },
+        "XGBoost": {
+          "MAE": 1.452,
+          "R2": 0.8665
+        },
+        "Gradient Boosting": {
+          "MAE": 1.062,
+          "R2": 0.9262
+        }
+      },
+      "meilleur": "Gradient Boosting"
+    }
+  },
+  "predictions_2026": {
+    "score_par_region": [
+      {
+        "region": "Ariana",
+        "mois_key": 1,
+        "score_predit": 3.616466284879481
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 2,
+        "score_predit": 3.6066994958243623
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 3,
+        "score_predit": 3.2597797850000436
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 4,
+        "score_predit": 3.265056018333985
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 5,
+        "score_predit": 3.5893766959686566
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 6,
+        "score_predit": 3.640356799442121
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 7,
+        "score_predit": 3.511645259624901
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 8,
+        "score_predit": 3.5604499891875987
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 9,
+        "score_predit": 3.6152415501255013
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 10,
+        "score_predit": 3.4357025825140988
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 11,
+        "score_predit": 3.552842401132136
+      },
+      {
+        "region": "Ariana",
+        "mois_key": 12,
+        "score_predit": 3.709063559249807
+      },
+      {
+        "region": "Beja",
+        "mois_key": 1,
+        "score_predit": 3.616466284879481
+      },
+      {
+        "region": "Beja",
+        "mois_key": 2,
+        "score_predit": 3.6066994958243623
+      },
+      {
+        "region": "Beja",
+        "mois_key": 3,
+        "score_predit": 3.2597797850000436
+      },
+      {
+        "region": "Beja",
+        "mois_key": 4,
+        "score_predit": 3.265056018333985
+      },
+      {
+        "region": "Beja",
+        "mois_key": 5,
+        "score_predit": 3.5893766959686566
+      },
+      {
+        "region": "Beja",
+        "mois_key": 6,
+        "score_predit": 3.640356799442121
+      },
+      {
+        "region": "Beja",
+        "mois_key": 7,
+        "score_predit": 3.511645259624901
+      },
+      {
+        "region": "Beja",
+        "mois_key": 8,
+        "score_predit": 3.5604499891875987
+      },
+      {
+        "region": "Beja",
+        "mois_key": 9,
+        "score_predit": 3.6152415501255013
+      },
+      {
+        "region": "Beja",
+        "mois_key": 10,
+        "score_predit": 3.4357025825140988
+      },
+      {
+        "region": "Beja",
+        "mois_key": 11,
+        "score_predit": 3.552842401132136
+      },
+      {
+        "region": "Beja",
+        "mois_key": 12,
+        "score_predit": 3.709063559249807
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 1,
+        "score_predit": 3.5774301092166265
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 2,
+        "score_predit": 3.480567335088689
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 3,
+        "score_predit": 3.3794344972039037
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 4,
+        "score_predit": 3.25590109329154
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 5,
+        "score_predit": 3.6077030014878537
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 6,
+        "score_predit": 3.5557598024368433
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 7,
+        "score_predit": 3.4882735179555215
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 8,
+        "score_predit": 3.5428855294679025
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 9,
+        "score_predit": 3.5940570838022285
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 10,
+        "score_predit": 3.3776560094825157
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 11,
+        "score_predit": 3.5503513222023937
+      },
+      {
+        "region": "Ben Arous",
+        "mois_key": 12,
+        "score_predit": 3.669200968511298
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 1,
+        "score_predit": 3.574543495691278
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 2,
+        "score_predit": 3.475822539209382
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 3,
+        "score_predit": 3.4014710425640473
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 4,
+        "score_predit": 3.2579099157707
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 5,
+        "score_predit": 3.6113801838410273
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 6,
+        "score_predit": 3.5530514691035098
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 7,
+        "score_predit": 3.48918724297164
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 8,
+        "score_predit": 3.544183127294912
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 9,
+        "score_predit": 3.59369723531738
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 10,
+        "score_predit": 3.3779323442588503
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 11,
+        "score_predit": 3.551059655535727
+      },
+      {
+        "region": "Bizerte",
+        "mois_key": 12,
+        "score_predit": 3.6645608541322128
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 1,
+        "score_predit": 3.5142857782140826
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 2,
+        "score_predit": 3.507867106992445
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 3,
+        "score_predit": 3.430061020650904
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 4,
+        "score_predit": 3.2988289421951307
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 5,
+        "score_predit": 3.6214508710784568
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 6,
+        "score_predit": 3.532197843083367
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 7,
+        "score_predit": 3.509837533365929
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 8,
+        "score_predit": 3.5242867700699834
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 9,
+        "score_predit": 3.5584580457355814
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 10,
+        "score_predit": 3.3756935418702296
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 11,
+        "score_predit": 3.518067606374112
+      },
+      {
+        "region": "Gabes",
+        "mois_key": 12,
+        "score_predit": 3.582856683414734
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 1,
+        "score_predit": 3.5048219122189668
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 2,
+        "score_predit": 3.5136674732928115
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 3,
+        "score_predit": 3.432263401603285
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 4,
+        "score_predit": 3.306878184619373
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 5,
+        "score_predit": 3.6244300251894015
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 6,
+        "score_predit": 3.5371443735679384
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 7,
+        "score_predit": 3.5182260226850186
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 8,
+        "score_predit": 3.5337885583267243
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 9,
+        "score_predit": 3.5596646047261076
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 10,
+        "score_predit": 3.377506971496159
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 11,
+        "score_predit": 3.5172366768869328
+      },
+      {
+        "region": "Gafsa",
+        "mois_key": 12,
+        "score_predit": 3.5794509294464802
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 1,
+        "score_predit": 3.519336758534691
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 2,
+        "score_predit": 3.516930909614109
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 3,
+        "score_predit": 3.407970703220513
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 4,
+        "score_predit": 3.3136483930815133
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 5,
+        "score_predit": 3.603210464555544
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 6,
+        "score_predit": 3.54374016686074
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 7,
+        "score_predit": 3.502819979068574
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 8,
+        "score_predit": 3.5417579643954946
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 9,
+        "score_predit": 3.5871936265626143
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 10,
+        "score_predit": 3.3523733040822057
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 11,
+        "score_predit": 3.5039378410497006
+      },
+      {
+        "region": "Jendouba",
+        "mois_key": 12,
+        "score_predit": 3.576644309497012
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 1,
+        "score_predit": 3.533743921687596
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 2,
+        "score_predit": 3.528601398327239
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 3,
+        "score_predit": 3.4021495545248905
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 4,
+        "score_predit": 3.3216120866982908
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 5,
+        "score_predit": 3.6250478628051876
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 6,
+        "score_predit": 3.529365185629657
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 7,
+        "score_predit": 3.5261247600905925
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 8,
+        "score_predit": 3.516747774227907
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 9,
+        "score_predit": 3.625804869830504
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 10,
+        "score_predit": 3.3511793142446424
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 11,
+        "score_predit": 3.522914369129683
+      },
+      {
+        "region": "Kairouan",
+        "mois_key": 12,
+        "score_predit": 3.597228901095062
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 1,
+        "score_predit": 3.53462586613204
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 2,
+        "score_predit": 3.527816014729355
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 3,
+        "score_predit": 3.4125840783344144
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 4,
+        "score_predit": 3.320225741561946
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 5,
+        "score_predit": 3.626413813031432
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 6,
+        "score_predit": 3.528115185629657
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 7,
+        "score_predit": 3.5299615656461483
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 8,
+        "score_predit": 3.5124806316482644
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 9,
+        "score_predit": 3.62726292566356
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 10,
+        "score_predit": 3.360328696112774
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 11,
+        "score_predit": 3.524073595320159
+      },
+      {
+        "region": "Kasserine",
+        "mois_key": 12,
+        "score_predit": 3.5812254288728402
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 1,
+        "score_predit": 3.536657001818952
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 2,
+        "score_predit": 3.5391835417409503
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 3,
+        "score_predit": 3.4511020868089908
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 4,
+        "score_predit": 3.3320880419388734
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 5,
+        "score_predit": 3.625569261945389
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 6,
+        "score_predit": 3.519028866504971
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 7,
+        "score_predit": 3.5327842511533465
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 8,
+        "score_predit": 3.5291907704145293
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 9,
+        "score_predit": 3.6209998095605553
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 10,
+        "score_predit": 3.366705674899704
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 11,
+        "score_predit": 3.48171888879507
+      },
+      {
+        "region": "Kebili",
+        "mois_key": 12,
+        "score_predit": 3.5389824226945046
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 1,
+        "score_predit": 3.533393112930063
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 2,
+        "score_predit": 3.5391835417409503
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 3,
+        "score_predit": 3.4491973249042287
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 4,
+        "score_predit": 3.329411221210582
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 5,
+        "score_predit": 3.6281252843543528
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 6,
+        "score_predit": 3.5162580331716375
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 7,
+        "score_predit": 3.527311864471401
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 8,
+        "score_predit": 3.5294551261568268
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 9,
+        "score_predit": 3.6203450476557935
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 10,
+        "score_predit": 3.36852012984835
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 11,
+        "score_predit": 3.4766593649855455
+      },
+      {
+        "region": "Le Kef",
+        "mois_key": 12,
+        "score_predit": 3.5369425067281184
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Mahdia",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Manouba",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Medenine",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Monastir",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Sfax",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Sidi Bouzid",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Siliana",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Sousse",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Tataouine",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Tozeur",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Tunis",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "Zaghouan",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      },
+      {
+        "region": "abeul",
+        "mois_key": 1,
+        "score_predit": 3.4872989923744497
+      },
+      {
+        "region": "abeul",
+        "mois_key": 2,
+        "score_predit": 3.578757053534857
+      },
+      {
+        "region": "abeul",
+        "mois_key": 3,
+        "score_predit": 3.4327137535453804
+      },
+      {
+        "region": "abeul",
+        "mois_key": 4,
+        "score_predit": 3.3633877826568064
+      },
+      {
+        "region": "abeul",
+        "mois_key": 5,
+        "score_predit": 3.677071319737132
+      },
+      {
+        "region": "abeul",
+        "mois_key": 6,
+        "score_predit": 3.5246973401878963
+      },
+      {
+        "region": "abeul",
+        "mois_key": 7,
+        "score_predit": 3.5097995931381147
+      },
+      {
+        "region": "abeul",
+        "mois_key": 8,
+        "score_predit": 3.552375165573879
+      },
+      {
+        "region": "abeul",
+        "mois_key": 9,
+        "score_predit": 3.702100002617534
+      },
+      {
+        "region": "abeul",
+        "mois_key": 10,
+        "score_predit": 3.3681684942861008
+      },
+      {
+        "region": "abeul",
+        "mois_key": 11,
+        "score_predit": 3.3684891857115415
+      },
+      {
+        "region": "abeul",
+        "mois_key": 12,
+        "score_predit": 3.5666466086550046
+      }
+    ],
+    "classification": [
+      {
+        "mois_key": 1,
+        "proba_pos": 0.41622910046000594,
+        "proba_neu": 0.37507776025012063,
+        "proba_neg": 0.20869313928987349
+      },
+      {
+        "mois_key": 2,
+        "proba_pos": 0.4232680360153688,
+        "proba_neu": 0.3889715108172176,
+        "proba_neg": 0.1877604531674137
+      },
+      {
+        "mois_key": 3,
+        "proba_pos": 0.3556621367015547,
+        "proba_neu": 0.4395132036270802,
+        "proba_neg": 0.20482465967136507
+      },
+      {
+        "mois_key": 4,
+        "proba_pos": 0.3768843925586332,
+        "proba_neu": 0.33410429469180947,
+        "proba_neg": 0.28901131274955755
+      },
+      {
+        "mois_key": 5,
+        "proba_pos": 0.40530669194374075,
+        "proba_neu": 0.3750837252752034,
+        "proba_neg": 0.2196095827810558
+      },
+      {
+        "mois_key": 6,
+        "proba_pos": 0.3676771354131275,
+        "proba_neu": 0.36454949757246113,
+        "proba_neg": 0.2677733670144114
+      },
+      {
+        "mois_key": 7,
+        "proba_pos": 0.38300110203939786,
+        "proba_neu": 0.4602561230694455,
+        "proba_neg": 0.1567427748911567
+      },
+      {
+        "mois_key": 8,
+        "proba_pos": 0.4402805473860603,
+        "proba_neu": 0.39470388557932945,
+        "proba_neg": 0.16501556703461023
+      },
+      {
+        "mois_key": 9,
+        "proba_pos": 0.46312947210171096,
+        "proba_neu": 0.3937714339228347,
+        "proba_neg": 0.14309909397545434
+      },
+      {
+        "mois_key": 10,
+        "proba_pos": 0.41019745986280387,
+        "proba_neu": 0.391251051160622,
+        "proba_neg": 0.1985514889765742
+      },
+      {
+        "mois_key": 11,
+        "proba_pos": 0.38414951228755273,
+        "proba_neu": 0.33071464822782337,
+        "proba_neg": 0.28513583948462395
+      },
+      {
+        "mois_key": 12,
+        "proba_pos": 0.3659538785233446,
+        "proba_neu": 0.3107556839734183,
+        "proba_neg": 0.32329043750323716
+      }
+    ],
+    "volume": [
+      {
+        "mois_key": 1,
+        "nb_pred": 277.81333140352916
+      },
+      {
+        "mois_key": 2,
+        "nb_pred": 346.0407951841018
+      },
+      {
+        "mois_key": 3,
+        "nb_pred": 30.994375432797508
+      },
+      {
+        "mois_key": 4,
+        "nb_pred": 289.8927274326866
+      },
+      {
+        "mois_key": 5,
+        "nb_pred": 271.5233005386594
+      },
+      {
+        "mois_key": 6,
+        "nb_pred": 258.8755128764325
+      },
+      {
+        "mois_key": 7,
+        "nb_pred": 250.22821266841618
+      },
+      {
+        "mois_key": 8,
+        "nb_pred": 231.64163778131325
+      },
+      {
+        "mois_key": 9,
+        "nb_pred": 257.6446894229518
+      },
+      {
+        "mois_key": 10,
+        "nb_pred": 300.04225297229453
+      },
+      {
+        "mois_key": 11,
+        "nb_pred": 305.7831880132573
+      },
+      {
+        "mois_key": 12,
+        "nb_pred": 300.65914055359826
+      }
+    ]
+  }
+}
