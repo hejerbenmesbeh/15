@@ -59,9 +59,9 @@ function HomePage() {
       <nav className="sticky top-0 z-50 border-b border-white/10 bg-white shadow-lg">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div className="flex items-center gap-4">
-            <img src="/logovector.png" alt="La Poste Logo" className="h-10 w-auto object-contain" />
+            <img src="/logovector.png" alt="La Poste Logo" className="h-25 w-auto object-contain" />
             <div className="h-6 w-px bg-gray-200" />
-            <span className="text-sm font-bold tracking-widest text-[#001A4D] uppercase">Plateforme BI</span>
+            <span className="text-20 font-bold tracking-widest text-[#001A4D] uppercase">Espace Utilisateur</span>
           </div>
           
           <div className="flex items-center gap-6">
@@ -110,8 +110,8 @@ function HomePage() {
         {/* GRILLE DES CARTES (ELLES SONT SEMI-TRANSPARENTES ET DEVIENNENT BLANCHES AU SURVOL) */}
         <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
           <ActionCard 
-            title="Analyse Dashboard"
-            subtitle="Indicateurs de performance et retours clients Power BI."
+            title="Dashboard"
+            subtitle="Accéder au dashboard Power BI."
             icon={BarChart3}
             colorClass="bg-blue-500 text-white"
             delay={100}
@@ -119,15 +119,15 @@ function HomePage() {
           />
           <ActionCard 
             title="Machine Learning"
-            subtitle="Modèles prédictifs et tendances postales avancées."
+            subtitle="Consulter les analyses prédictives."
             icon={BrainCircuit}
             colorClass="bg-indigo-500 text-white"
             delay={200}
             onClick={() => navigate({ to: "/ml" })}
           /> 
           <ActionCard 
-            title="Paramètres"
-            subtitle="Gestion du profil, sécurité et préférences."
+            title="Espace Personnel"
+            subtitle="Gérer les informations du profil."
             icon={UserIcon}
             colorClass="bg-amber-500 text-white"
             delay={300}

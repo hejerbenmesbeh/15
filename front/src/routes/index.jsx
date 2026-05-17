@@ -26,7 +26,7 @@ function LandingPage() {
       <aside
         style={{
           width: sidebarOpen ? 280 : 0,
-          backgroundColor: "#FFCC00", // Bleu foncé comme sur l'image
+          backgroundColor: "#FFF", // Bleu foncé comme sur l'image
           color: "#fff",
           transition: "width 0.3s ease",
           overflow: "hidden",
@@ -58,9 +58,26 @@ function LandingPage() {
             <LayoutDashboard size={20} color="#001A4D" />  {/* Change color ici */}
             <span style={{ color: "#001A4D", fontWeight: "bold" }}>Accueil</span> {/* Ajoute color ici */}
           </div>
-          <div style={{ display: "flex", alignItems: "center", gap: 12, padding: "12px", opacity: 0.7 }}>
-            <BarChart3 size={20} color ="#001A4D"/> <span style={{ color: "#001A4D", fontWeight: "bold" }}>Dashboard</span>
-          </div>
+          <a
+            href="https://www.youtube.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 12,
+              padding: "12px",
+              opacity: 0.7,
+              textDecoration: "none",
+              cursor: "pointer",
+            }}
+          >
+            <BarChart3 size={20} color="#001A4D" />
+
+            <span style={{ color: "#001A4D", fontWeight: "bold" }}>
+              Dashboard
+            </span>
+          </a>
         </nav>
 
         <div style={{ padding: "20px" }}>
