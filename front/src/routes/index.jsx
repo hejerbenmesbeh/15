@@ -59,7 +59,7 @@ function LandingPage() {
             <span style={{ color: "#001A4D", fontWeight: "bold" }}>Accueil</span> {/* Ajoute color ici */}
           </div>
           <a
-            href="https://www.youtube.com/"
+            href="https://app.powerbi.com/view?r=eyJrIjoiODFkNzdlYmEtMjliYS00ZjhjLThkY2QtNmU4NjM2OTZhNjYwIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9"
             target="_blank"
             rel="noopener noreferrer"
             style={{

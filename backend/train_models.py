@@ -85,6 +85,8 @@ data["intention_revisite"] = (
 # 1 = Revisite prévue, 0 = Ne reviendrait pas
 
 print("✅ Données simulées générées :", data.shape)
+print(data.head(10).to_string())
+data.to_csv("donnees_simulees.csv", index=False)
 print(data[["satisfaction", "risque_reclamation", "intention_revisite"]].value_counts().head(10))
 
 # -----------------------------------------------------------------

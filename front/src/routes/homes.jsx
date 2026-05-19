@@ -115,8 +115,12 @@ function HomePage() {
             icon={BarChart3}
             colorClass="bg-blue-500 text-white"
             delay={100}
-            onClick={() => navigate({ to: "/dashboard" })}
+            onClick={() =>{
+      window.location.href =
+        "https://app.powerbi.com/view?r=eyJrIjoiODFkNzdlYmEtMjliYS00ZjhjLThkY2QtNmU4NjM2OTZhNjYwIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9";
+    } }
           />
+
           <ActionCard 
             title="Machine Learning"
             subtitle="Consulter les analyses prédictives."

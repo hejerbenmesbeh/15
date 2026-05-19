@@ -1,0 +1,1001 @@
+secteur,region,tranche_age,genre,niveau_instruction,profession,note_attente,note_accueil,note_service,nb_visites,score_moyen,satisfaction,risque_reclamation,intention_revisite
+Bureau,Monastir,18-24 ans,Féminin,Universitaire,Sans emploi,2,3,5,5,3.3333333333333335,0,1,0
+Colis,Tunis,55 ans et plus,Masculin,Secondaire,Sans emploi,3,3,3,10,3.0,0,0,0
+Abonnée,Kairouan,18-24 ans,Masculin,Sans instruction,Commerçant,5,1,2,6,2.6666666666666665,0,1,0
+Bureau,Tunis,55 ans et plus,Masculin,Universitaire,Fonctionnaire,5,4,2,19,3.6666666666666665,1,0,1
+Bureau,Nabeul,18-24 ans,Masculin,Post-universitaire,Retraité,4,2,3,13,3.0,0,0,0
+Colis,Bizerte,18-24 ans,Féminin,Secondaire,Etudiant,1,1,4,1,2.0,0,1,0
+Abonnée,Sousse,18-24 ans,Féminin,Post-universitaire,Etudiant,4,4,2,15,3.3333333333333335,0,0,0
+Abonnée,Monastir,18-24 ans,Masculin,Primaire,Sans emploi,2,4,1,14,2.3333333333333335,0,1,0
+Bureau,Sfax,35-44 ans,Masculin,Secondaire,Etudiant,5,2,3,8,3.3333333333333335,0,0,0
+Passagers,Sousse,Moins de 18 ans,Masculin,Universitaire,Fonctionnaire,1,2,2,10,1.6666666666666667,0,1,0
+Bureau,Nabeul,25-34 ans,Féminin,Secondaire,Fonctionnaire,2,2,4,9,2.6666666666666665,0,1,0
+Bureau,Kairouan,45-54 ans,Féminin,Post-universitaire,Salarié,2,1,2,17,1.6666666666666667,0,1,0
+Bureau,Sfax,25-34 ans,Féminin,Sans instruction,Salarié,1,5,5,9,3.6666666666666665,1,1,1
+Bureau,Médenine,25-34 ans,Féminin,Secondaire,Etudiant,2,2,1,3,1.6666666666666667,0,1,0
+Colis,Gafsa,55 ans et plus,Masculin,Universitaire,Retraité,1,5,3,11,3.0,0,1,0
+Abonnée,Sfax,Moins de 18 ans,Masculin,Primaire,Salarié,1,1,5,12,2.3333333333333335,0,1,0
+Colis,Nabeul,55 ans et plus,Masculin,Sans instruction,Salarié,3,5,4,10,4.0,1,0,1
+Colis,Gabès,Moins de 18 ans,Féminin,Primaire,Fonctionnaire,4,3,5,17,4.0,1,0,1
+Colis,Gafsa,Moins de 18 ans,Masculin,Secondaire,Retraité,2,5,5,17,4.0,1,1,1
+Bureau,Tunis,18-24 ans,Féminin,Post-universitaire,Sans emploi,2,2,4,11,2.6666666666666665,0,1,0
+Passagers,Monastir,35-44 ans,Féminin,Post-universitaire,Etudiant,3,1,5,4,3.0,0,0,0
+Abonnée,Tunis,18-24 ans,Masculin,Universitaire,Salarié,3,2,3,7,2.6666666666666665,0,1,0
+Passagers,Sfax,35-44 ans,Masculin,Post-universitaire,Retraité,3,3,2,14,2.6666666666666665,0,1,0
+Colis,Tunis,55 ans et plus,Masculin,Sans instruction,Retraité,5,2,5,7,4.0,1,0,0
+Colis,Nabeul,35-44 ans,Féminin,Post-universitaire,Etudiant,5,2,3,8,3.3333333333333335,0,0,0
+Passagers,Médenine,55 ans et plus,Féminin,Universitaire,Retraité,5,2,2,1,3.0,0,0,0
+Passagers,Kairouan,25-34 ans,Masculin,Secondaire,Retraité,1,4,2,4,2.3333333333333335,0,1,0
+Passagers,Monastir,25-34 ans,Masculin,Secondaire,Retraité,2,3,5,12,3.3333333333333335,0,1,0
+Colis,Tunis,35-44 ans,Féminin,Post-universitaire,Salarié,4,2,3,3,3.0,0,0,0
+Colis,Tunis,35-44 ans,Masculin,Primaire,Etudiant,1,2,5,13,2.6666666666666665,0,1,0
+Abonnée,Sfax,55 ans et plus,Féminin,Secondaire,Retraité,2,2,4,6,2.6666666666666665,0,1,0
+Abonnée,Kairouan,18-24 ans,Féminin,Post-universitaire,Retraité,2,1,2,11,1.6666666666666667,0,1,0
+Colis,Sousse,55 ans et plus,Masculin,Universitaire,Salarié,3,4,5,4,4.0,1,0,1
+Passagers,Tunis,18-24 ans,Masculin,Post-universitaire,Etudiant,3,1,2,16,2.0,0,1,0
+Passagers,Nabeul,25-34 ans,Masculin,Secondaire,Fonctionnaire,1,4,3,7,2.6666666666666665,0,1,0
+Abonnée,Gabès,Moins de 18 ans,Masculin,Universitaire,Salarié,3,2,1,11,2.0,0,1,0
+Colis,Monastir,35-44 ans,Féminin,Post-universitaire,Etudiant,2,3,5,1,3.3333333333333335,0,1,0
+Abonnée,Tunis,18-24 ans,Féminin,Sans instruction,Retraité,3,5,5,7,4.333333333333333,1,0,1
+Abonnée,Nabeul,55 ans et plus,Féminin,Universitaire,Etudiant,5,5,2,12,4.0,1,0,1
+Bureau,Nabeul,25-34 ans,Masculin,Sans instruction,Etudiant,3,2,3,7,2.6666666666666665,0,1,0
+Bureau,Monastir,18-24 ans,Féminin,Primaire,Sans emploi,2,1,4,7,2.3333333333333335,0,1,0
+Bureau,Sousse,55 ans et plus,Masculin,Universitaire,Etudiant,1,3,3,10,2.3333333333333335,0,1,0
+Passagers,Nabeul,35-44 ans,Masculin,Sans instruction,Fonctionnaire,4,4,5,16,4.333333333333333,1,0,1
+Colis,Gabès,35-44 ans,Masculin,Secondaire,Etudiant,3,2,4,8,3.0,0,0,0
+Colis,Nabeul,45-54 ans,Masculin,Secondaire,Fonctionnaire,2,3,3,9,2.6666666666666665,0,1,0
+Colis,Nabeul,Moins de 18 ans,Masculin,Primaire,Retraité,4,3,1,9,2.6666666666666665,0,1,0
+Colis,Nabeul,45-54 ans,Masculin,Universitaire,Fonctionnaire,4,4,2,2,3.3333333333333335,0,0,0
+Bureau,Médenine,25-34 ans,Féminin,Universitaire,Retraité,5,3,3,13,3.6666666666666665,1,0,1
+Passagers,Médenine,18-24 ans,Masculin,Universitaire,Retraité,4,1,3,13,2.6666666666666665,0,1,0
+Passagers,Sousse,25-34 ans,Féminin,Primaire,Fonctionnaire,2,1,1,4,1.3333333333333333,0,1,0
+Bureau,Tunis,55 ans et plus,Féminin,Universitaire,Salarié,2,1,5,12,2.6666666666666665,0,1,0
+Passagers,Nabeul,35-44 ans,Masculin,Secondaire,Commerçant,3,3,2,17,2.6666666666666665,0,1,0
+Bureau,Kairouan,45-54 ans,Masculin,Sans instruction,Etudiant,3,1,3,2,2.3333333333333335,0,1,0
+Colis,Tunis,45-54 ans,Masculin,Secondaire,Sans emploi,3,4,4,13,3.6666666666666665,1,0,1
+Bureau,Sousse,45-54 ans,Féminin,Secondaire,Commerçant,4,3,3,18,3.3333333333333335,0,0,0
+Colis,Bizerte,25-34 ans,Masculin,Sans instruction,Etudiant,4,5,2,15,3.6666666666666665,1,0,1
+Colis,Tunis,35-44 ans,Féminin,Secondaire,Etudiant,5,3,3,8,3.6666666666666665,1,0,1
+Abonnée,Tunis,18-24 ans,Masculin,Primaire,Retraité,3,4,1,15,2.6666666666666665,0,1,0
+Bureau,Gafsa,55 ans et plus,Masculin,Sans instruction,Etudiant,1,5,3,1,3.0,0,1,0
+Abonnée,Sfax,18-24 ans,Féminin,Secondaire,Sans emploi,5,3,3,10,3.6666666666666665,1,0,1
+Bureau,Gafsa,25-34 ans,Féminin,Post-universitaire,Etudiant,1,1,4,12,2.0,0,1,0
+Bureau,Gabès,55 ans et plus,Masculin,Secondaire,Fonctionnaire,4,2,1,5,2.3333333333333335,0,1,0
+Abonnée,Médenine,45-54 ans,Féminin,Primaire,Commerçant,5,2,1,9,2.6666666666666665,0,1,0
+Abonnée,Médenine,Moins de 18 ans,Féminin,Universitaire,Fonctionnaire,5,1,3,8,3.0,0,0,0
+Bureau,Sfax,25-34 ans,Féminin,Secondaire,Sans emploi,2,2,4,16,2.6666666666666665,0,1,0
+Passagers,Monastir,25-34 ans,Féminin,Universitaire,Etudiant,4,2,3,14,3.0,0,0,0
+Colis,Monastir,35-44 ans,Féminin,Post-universitaire,Sans emploi,4,1,3,13,2.6666666666666665,0,1,0
+Abonnée,Sousse,18-24 ans,Masculin,Secondaire,Retraité,5,1,2,13,2.6666666666666665,0,1,0
+Colis,Sfax,25-34 ans,Masculin,Sans instruction,Fonctionnaire,4,3,2,5,3.0,0,0,0
+Passagers,Tunis,25-34 ans,Féminin,Universitaire,Fonctionnaire,5,3,4,16,4.0,1,0,1
+Passagers,Monastir,45-54 ans,Masculin,Post-universitaire,Salarié,2,1,5,11,2.6666666666666665,0,1,0
+Passagers,Nabeul,45-54 ans,Masculin,Sans instruction,Etudiant,5,4,2,5,3.6666666666666665,1,0,1
+Abonnée,Kairouan,55 ans et plus,Féminin,Sans instruction,Retraité,4,2,5,13,3.6666666666666665,1,0,0
+Passagers,Tunis,Moins de 18 ans,Masculin,Sans instruction,Fonctionnaire,4,3,1,11,2.6666666666666665,0,1,0
+Abonnée,Gabès,35-44 ans,Féminin,Sans instruction,Fonctionnaire,5,2,2,19,3.0,0,0,0
+Passagers,Nabeul,Moins de 18 ans,Féminin,Secondaire,Retraité,5,5,2,3,4.0,1,0,1
+Colis,Nabeul,55 ans et plus,Masculin,Secondaire,Sans emploi,5,1,4,15,3.3333333333333335,0,0,0
+Colis,Sfax,45-54 ans,Féminin,Secondaire,Sans emploi,3,4,5,7,4.0,1,0,1
+Bureau,Sousse,18-24 ans,Féminin,Post-universitaire,Etudiant,4,5,2,7,3.6666666666666665,1,0,1
+Colis,Gabès,45-54 ans,Féminin,Post-universitaire,Salarié,4,5,2,6,3.6666666666666665,1,0,1
+Bureau,Monastir,35-44 ans,Féminin,Post-universitaire,Fonctionnaire,3,5,4,3,4.0,1,0,1
+Colis,Sfax,45-54 ans,Féminin,Primaire,Salarié,5,1,4,13,3.3333333333333335,0,0,0
+Abonnée,Monastir,35-44 ans,Masculin,Post-universitaire,Sans emploi,2,3,5,7,3.3333333333333335,0,1,0
+Colis,Sfax,35-44 ans,Masculin,Secondaire,Sans emploi,5,1,1,5,2.3333333333333335,0,1,0
+Bureau,Sfax,35-44 ans,Féminin,Secondaire,Commerçant,5,3,1,18,3.0,0,0,0
+Bureau,Sfax,55 ans et plus,Féminin,Primaire,Etudiant,3,5,3,8,3.6666666666666665,1,0,1
+Passagers,Sousse,35-44 ans,Masculin,Primaire,Commerçant,4,5,2,17,3.6666666666666665,1,0,1
+Abonnée,Sfax,35-44 ans,Féminin,Post-universitaire,Commerçant,5,4,5,1,4.666666666666667,1,0,1
+Colis,Bizerte,18-24 ans,Masculin,Universitaire,Commerçant,4,3,2,14,3.0,0,0,0
+Passagers,Kairouan,Moins de 18 ans,Féminin,Primaire,Etudiant,1,5,5,17,3.6666666666666665,1,1,1
+Colis,Monastir,25-34 ans,Féminin,Sans instruction,Etudiant,4,2,5,10,3.6666666666666665,1,0,0
+Colis,Tunis,Moins de 18 ans,Féminin,Secondaire,Retraité,2,4,5,12,3.6666666666666665,1,1,1
+Passagers,Gafsa,35-44 ans,Féminin,Sans instruction,Salarié,2,1,2,16,1.6666666666666667,0,1,0
+Passagers,Gabès,18-24 ans,Féminin,Secondaire,Salarié,5,4,4,14,4.333333333333333,1,0,1
+Passagers,Médenine,45-54 ans,Féminin,Secondaire,Retraité,4,2,2,16,2.6666666666666665,0,1,0
+Passagers,Sousse,18-24 ans,Féminin,Primaire,Retraité,5,3,5,8,4.333333333333333,1,0,1
+Passagers,Tunis,35-44 ans,Masculin,Primaire,Sans emploi,3,1,3,10,2.3333333333333335,0,1,0
+Colis,Nabeul,18-24 ans,Masculin,Sans instruction,Commerçant,2,1,1,17,1.3333333333333333,0,1,0
+Passagers,Bizerte,18-24 ans,Masculin,Secondaire,Retraité,5,3,5,18,4.333333333333333,1,0,1
+Abonnée,Médenine,35-44 ans,Féminin,Sans instruction,Fonctionnaire,3,4,3,16,3.3333333333333335,0,0,0
+Bureau,Gafsa,55 ans et plus,Féminin,Universitaire,Salarié,5,5,4,17,4.666666666666667,1,0,1
+Passagers,Tunis,18-24 ans,Féminin,Sans instruction,Retraité,4,4,5,16,4.333333333333333,1,0,1
+Passagers,Médenine,25-34 ans,Féminin,Post-universitaire,Fonctionnaire,4,2,3,19,3.0,0,0,0
+Colis,Tunis,25-34 ans,Féminin,Sans instruction,Fonctionnaire,4,5,5,8,4.666666666666667,1,0,1
+Passagers,Bizerte,18-24 ans,Féminin,Post-universitaire,Fonctionnaire,4,4,2,6,3.3333333333333335,0,0,0
+Passagers,Gafsa,55 ans et plus,Féminin,Post-universitaire,Sans emploi,1,3,3,6,2.3333333333333335,0,1,0
+Passagers,Nabeul,45-54 ans,Masculin,Post-universitaire,Sans emploi,3,2,2,9,2.3333333333333335,0,1,0
+Colis,Sfax,35-44 ans,Féminin,Universitaire,Fonctionnaire,3,2,2,4,2.3333333333333335,0,1,0
+Passagers,Monastir,25-34 ans,Masculin,Sans instruction,Sans emploi,4,2,3,12,3.0,0,0,0
+Bureau,Nabeul,45-54 ans,Masculin,Sans instruction,Commerçant,1,5,1,12,2.3333333333333335,0,1,0
+Colis,Sfax,18-24 ans,Féminin,Universitaire,Fonctionnaire,4,1,3,17,2.6666666666666665,0,1,0
+Bureau,Sousse,45-54 ans,Féminin,Secondaire,Commerçant,1,5,1,15,2.3333333333333335,0,1,0
+Colis,Kairouan,Moins de 18 ans,Masculin,Primaire,Commerçant,4,4,5,9,4.333333333333333,1,0,1
+Passagers,Gabès,25-34 ans,Masculin,Sans instruction,Fonctionnaire,2,1,5,7,2.6666666666666665,0,1,0
+Bureau,Gabès,18-24 ans,Féminin,Primaire,Salarié,2,4,3,10,3.0,0,1,0
+Colis,Monastir,35-44 ans,Féminin,Universitaire,Fonctionnaire,5,1,5,16,3.6666666666666665,1,0,0
+Abonnée,Gafsa,55 ans et plus,Masculin,Secondaire,Fonctionnaire,4,5,4,12,4.333333333333333,1,0,1
+Passagers,Bizerte,18-24 ans,Féminin,Secondaire,Sans emploi,3,2,2,7,2.3333333333333335,0,1,0
+Colis,Gafsa,35-44 ans,Féminin,Secondaire,Fonctionnaire,5,3,2,18,3.3333333333333335,0,0,0
+Abonnée,Bizerte,55 ans et plus,Féminin,Universitaire,Salarié,2,2,1,15,1.6666666666666667,0,1,0
+Colis,Gafsa,55 ans et plus,Masculin,Post-universitaire,Sans emploi,4,5,5,6,4.666666666666667,1,0,1
+Abonnée,Kairouan,18-24 ans,Masculin,Post-universitaire,Etudiant,5,1,1,12,2.3333333333333335,0,1,0
+Passagers,Sousse,45-54 ans,Masculin,Primaire,Etudiant,4,2,2,11,2.6666666666666665,0,1,0
+Bureau,Sousse,45-54 ans,Féminin,Post-universitaire,Commerçant,2,5,2,3,3.0,0,1,0
+Abonnée,Sfax,55 ans et plus,Féminin,Post-universitaire,Commerçant,5,4,5,2,4.666666666666667,1,0,1
+Colis,Médenine,45-54 ans,Masculin,Secondaire,Salarié,2,3,4,6,3.0,0,1,0
+Passagers,Sousse,Moins de 18 ans,Masculin,Secondaire,Retraité,1,2,4,5,2.3333333333333335,0,1,0
+Abonnée,Sousse,55 ans et plus,Masculin,Primaire,Etudiant,2,1,5,18,2.6666666666666665,0,1,0
+Colis,Nabeul,55 ans et plus,Féminin,Sans instruction,Commerçant,4,4,5,16,4.333333333333333,1,0,1
+Colis,Nabeul,35-44 ans,Masculin,Primaire,Etudiant,3,5,1,8,3.0,0,0,0
+Colis,Sfax,45-54 ans,Masculin,Primaire,Salarié,2,3,5,11,3.3333333333333335,0,1,0
+Abonnée,Médenine,55 ans et plus,Féminin,Universitaire,Salarié,3,1,4,10,2.6666666666666665,0,1,0
+Abonnée,Monastir,Moins de 18 ans,Féminin,Universitaire,Retraité,1,5,5,12,3.6666666666666665,1,1,1
+Abonnée,Nabeul,35-44 ans,Féminin,Primaire,Retraité,5,5,1,6,3.6666666666666665,1,0,1
+Bureau,Monastir,18-24 ans,Masculin,Primaire,Sans emploi,5,2,1,5,2.6666666666666665,0,1,0
+Abonnée,Tunis,55 ans et plus,Féminin,Primaire,Salarié,3,2,1,9,2.0,0,1,0
+Abonnée,Nabeul,Moins de 18 ans,Féminin,Post-universitaire,Commerçant,5,1,1,16,2.3333333333333335,0,1,0
+Abonnée,Kairouan,25-34 ans,Masculin,Universitaire,Etudiant,2,5,3,14,3.3333333333333335,0,1,0
+Bureau,Médenine,Moins de 18 ans,Féminin,Primaire,Fonctionnaire,3,2,5,8,3.3333333333333335,0,0,0
+Abonnée,Sfax,Moins de 18 ans,Masculin,Secondaire,Retraité,4,3,2,19,3.0,0,0,0
+Colis,Tunis,35-44 ans,Masculin,Secondaire,Fonctionnaire,2,3,5,14,3.3333333333333335,0,1,0
+Abonnée,Médenine,18-24 ans,Féminin,Post-universitaire,Commerçant,2,5,3,7,3.3333333333333335,0,1,0
+Colis,Kairouan,25-34 ans,Féminin,Post-universitaire,Retraité,2,2,1,5,1.6666666666666667,0,1,0
+Colis,Médenine,45-54 ans,Féminin,Sans instruction,Fonctionnaire,4,1,3,18,2.6666666666666665,0,1,0
+Colis,Kairouan,45-54 ans,Féminin,Sans instruction,Commerçant,1,1,4,2,2.0,0,1,0
+Bureau,Kairouan,Moins de 18 ans,Féminin,Sans instruction,Etudiant,5,1,4,11,3.3333333333333335,0,0,0
+Bureau,Monastir,35-44 ans,Féminin,Post-universitaire,Commerçant,3,3,5,8,3.6666666666666665,1,0,1
+Bureau,Gafsa,35-44 ans,Masculin,Post-universitaire,Sans emploi,1,2,5,1,2.6666666666666665,0,1,0
+Abonnée,Tunis,45-54 ans,Masculin,Post-universitaire,Retraité,3,2,2,12,2.3333333333333335,0,1,0
+Colis,Médenine,25-34 ans,Féminin,Secondaire,Salarié,5,3,2,2,3.3333333333333335,0,0,0
+Bureau,Bizerte,18-24 ans,Masculin,Post-universitaire,Etudiant,4,1,4,18,3.0,0,0,0
+Bureau,Tunis,25-34 ans,Féminin,Secondaire,Fonctionnaire,2,1,1,7,1.3333333333333333,0,1,0
+Abonnée,Gafsa,55 ans et plus,Masculin,Sans instruction,Retraité,2,5,3,17,3.3333333333333335,0,1,0
+Bureau,Tunis,55 ans et plus,Masculin,Sans instruction,Salarié,4,4,2,14,3.3333333333333335,0,0,0
+Abonnée,Sousse,18-24 ans,Masculin,Sans instruction,Commerçant,1,2,2,7,1.6666666666666667,0,1,0
+Passagers,Bizerte,45-54 ans,Féminin,Primaire,Salarié,1,2,1,3,1.3333333333333333,0,1,0
+Bureau,Gafsa,18-24 ans,Masculin,Primaire,Retraité,3,2,1,6,2.0,0,1,0
+Passagers,Monastir,35-44 ans,Féminin,Universitaire,Retraité,4,4,5,2,4.333333333333333,1,0,1
+Abonnée,Médenine,55 ans et plus,Masculin,Universitaire,Sans emploi,1,5,3,17,3.0,0,1,0
+Colis,Gabès,Moins de 18 ans,Masculin,Universitaire,Sans emploi,4,4,1,12,3.0,0,0,0
+Bureau,Gafsa,Moins de 18 ans,Masculin,Primaire,Salarié,5,1,2,12,2.6666666666666665,0,1,0
+Abonnée,Sfax,45-54 ans,Masculin,Primaire,Commerçant,2,1,2,17,1.6666666666666667,0,1,0
+Colis,Médenine,35-44 ans,Masculin,Universitaire,Salarié,2,2,4,10,2.6666666666666665,0,1,0
+Colis,Gafsa,25-34 ans,Féminin,Universitaire,Retraité,2,3,1,3,2.0,0,1,0
+Passagers,Sousse,35-44 ans,Féminin,Post-universitaire,Retraité,4,2,5,18,3.6666666666666665,1,0,0
+Abonnée,Gabès,Moins de 18 ans,Masculin,Universitaire,Fonctionnaire,4,3,3,13,3.3333333333333335,0,0,0
+Colis,Sousse,Moins de 18 ans,Masculin,Post-universitaire,Sans emploi,3,4,5,12,4.0,1,0,1
+Bureau,Gabès,55 ans et plus,Masculin,Secondaire,Fonctionnaire,2,1,2,17,1.6666666666666667,0,1,0
+Bureau,Sfax,35-44 ans,Masculin,Primaire,Etudiant,3,3,5,4,3.6666666666666665,1,0,1
+Passagers,Médenine,35-44 ans,Féminin,Universitaire,Retraité,2,4,2,10,2.6666666666666665,0,1,0
+Colis,Monastir,Moins de 18 ans,Masculin,Primaire,Fonctionnaire,3,1,2,11,2.0,0,1,0
+Abonnée,Sousse,25-34 ans,Féminin,Primaire,Salarié,3,3,2,6,2.6666666666666665,0,1,0
+Bureau,Sousse,45-54 ans,Masculin,Primaire,Sans emploi,5,2,2,6,3.0,0,0,0
+Colis,Kairouan,45-54 ans,Féminin,Secondaire,Sans emploi,3,2,2,9,2.3333333333333335,0,1,0
+Colis,Gabès,35-44 ans,Masculin,Sans instruction,Commerçant,4,2,4,15,3.3333333333333335,0,0,0
+Passagers,Nabeul,45-54 ans,Masculin,Universitaire,Salarié,3,4,5,2,4.0,1,0,1
+Bureau,Médenine,Moins de 18 ans,Féminin,Sans instruction,Commerçant,2,2,4,4,2.6666666666666665,0,1,0
+Bureau,Gabès,Moins de 18 ans,Masculin,Sans instruction,Fonctionnaire,3,5,4,5,4.0,1,0,1
+Abonnée,Kairouan,35-44 ans,Masculin,Sans instruction,Etudiant,1,1,1,17,1.0,0,1,0
+Bureau,Tunis,35-44 ans,Masculin,Primaire,Salarié,2,4,1,8,2.3333333333333335,0,1,0
+Abonnée,Gabès,55 ans et plus,Féminin,Post-universitaire,Salarié,1,2,1,8,1.3333333333333333,0,1,0
+Bureau,Monastir,35-44 ans,Masculin,Primaire,Salarié,2,1,3,12,2.0,0,1,0
+Passagers,Médenine,25-34 ans,Masculin,Primaire,Commerçant,4,3,1,8,2.6666666666666665,0,1,0
+Bureau,Kairouan,45-54 ans,Féminin,Sans instruction,Fonctionnaire,4,2,5,19,3.6666666666666665,1,0,0
+Abonnée,Tunis,35-44 ans,Féminin,Primaire,Salarié,4,1,4,3,3.0,0,0,0
+Abonnée,Bizerte,18-24 ans,Féminin,Sans instruction,Salarié,1,5,5,18,3.6666666666666665,1,1,1
+Passagers,Kairouan,55 ans et plus,Masculin,Post-universitaire,Sans emploi,5,3,1,19,3.0,0,0,0
+Bureau,Bizerte,18-24 ans,Masculin,Universitaire,Etudiant,2,5,3,19,3.3333333333333335,0,1,0
+Bureau,Médenine,Moins de 18 ans,Masculin,Sans instruction,Sans emploi,4,1,3,15,2.6666666666666665,0,1,0
+Passagers,Sousse,45-54 ans,Féminin,Post-universitaire,Sans emploi,2,5,4,6,3.6666666666666665,1,1,1
+Bureau,Kairouan,35-44 ans,Masculin,Universitaire,Etudiant,1,1,5,16,2.3333333333333335,0,1,0
+Bureau,Sfax,18-24 ans,Masculin,Secondaire,Fonctionnaire,5,1,2,8,2.6666666666666665,0,1,0
+Abonnée,Bizerte,45-54 ans,Féminin,Sans instruction,Sans emploi,1,5,5,16,3.6666666666666665,1,1,1
+Bureau,Monastir,Moins de 18 ans,Féminin,Sans instruction,Fonctionnaire,2,1,1,18,1.3333333333333333,0,1,0
+Bureau,Sfax,25-34 ans,Féminin,Secondaire,Sans emploi,5,2,2,16,3.0,0,0,0
+Passagers,Gafsa,55 ans et plus,Féminin,Secondaire,Retraité,5,1,3,11,3.0,0,0,0
+Passagers,Gafsa,45-54 ans,Féminin,Sans instruction,Etudiant,1,4,4,7,3.0,0,1,0
+Colis,Tunis,45-54 ans,Masculin,Secondaire,Sans emploi,4,1,4,17,3.0,0,0,0
+Abonnée,Sousse,25-34 ans,Féminin,Primaire,Retraité,2,4,3,17,3.0,0,1,0
+Bureau,Médenine,45-54 ans,Masculin,Universitaire,Commerçant,3,1,1,12,1.6666666666666667,0,1,0
+Bureau,Kairouan,Moins de 18 ans,Masculin,Universitaire,Retraité,3,1,3,13,2.3333333333333335,0,1,0
+Colis,Nabeul,Moins de 18 ans,Féminin,Universitaire,Salarié,1,5,1,10,2.3333333333333335,0,1,0
+Bureau,Monastir,25-34 ans,Féminin,Primaire,Sans emploi,2,2,2,7,2.0,0,1,0
+Abonnée,Bizerte,55 ans et plus,Féminin,Secondaire,Retraité,2,2,3,14,2.3333333333333335,0,1,0
+Colis,Médenine,35-44 ans,Masculin,Post-universitaire,Fonctionnaire,1,3,1,1,1.6666666666666667,0,1,0
+Abonnée,Sfax,18-24 ans,Féminin,Secondaire,Commerçant,2,5,2,17,3.0,0,1,0
+Colis,Gafsa,35-44 ans,Féminin,Sans instruction,Sans emploi,4,5,3,4,4.0,1,0,1
+Colis,Monastir,45-54 ans,Féminin,Universitaire,Salarié,1,2,4,5,2.3333333333333335,0,1,0
+Passagers,Nabeul,18-24 ans,Féminin,Secondaire,Retraité,4,5,3,7,4.0,1,0,1
+Abonnée,Kairouan,25-34 ans,Féminin,Post-universitaire,Commerçant,2,2,5,10,3.0,0,1,0
+Bureau,Tunis,25-34 ans,Masculin,Sans instruction,Sans emploi,1,5,3,17,3.0,0,1,0
+Bureau,Nabeul,55 ans et plus,Masculin,Primaire,Commerçant,2,1,5,7,2.6666666666666665,0,1,0
+Abonnée,Monastir,18-24 ans,Masculin,Primaire,Salarié,1,2,2,1,1.6666666666666667,0,1,0
+Bureau,Nabeul,Moins de 18 ans,Féminin,Post-universitaire,Retraité,2,2,3,7,2.3333333333333335,0,1,0
+Bureau,Monastir,18-24 ans,Féminin,Sans instruction,Commerçant,4,4,2,11,3.3333333333333335,0,0,0
+Abonnée,Monastir,45-54 ans,Féminin,Universitaire,Commerçant,4,5,2,9,3.6666666666666665,1,0,1
+Colis,Gabès,Moins de 18 ans,Masculin,Secondaire,Etudiant,2,5,1,12,2.6666666666666665,0,1,0
+Abonnée,Bizerte,25-34 ans,Féminin,Sans instruction,Commerçant,1,2,2,3,1.6666666666666667,0,1,0
+Colis,Gafsa,18-24 ans,Féminin,Primaire,Etudiant,3,1,2,4,2.0,0,1,0
+Bureau,Gabès,35-44 ans,Féminin,Post-universitaire,Retraité,4,1,3,4,2.6666666666666665,0,1,0
+Bureau,Kairouan,55 ans et plus,Masculin,Post-universitaire,Sans emploi,4,1,3,13,2.6666666666666665,0,1,0
+Bureau,Gabès,35-44 ans,Féminin,Secondaire,Sans emploi,3,5,4,19,4.0,1,0,1
+Passagers,Sousse,55 ans et plus,Masculin,Post-universitaire,Retraité,2,4,1,10,2.3333333333333335,0,1,0
+Colis,Sousse,45-54 ans,Féminin,Post-universitaire,Retraité,1,2,2,5,1.6666666666666667,0,1,0
+Passagers,Gafsa,35-44 ans,Masculin,Sans instruction,Fonctionnaire,2,3,1,7,2.0,0,1,0
+Passagers,Nabeul,18-24 ans,Masculin,Universitaire,Retraité,5,4,5,16,4.666666666666667,1,0,1
+Abonnée,Bizerte,18-24 ans,Masculin,Secondaire,Commerçant,4,3,2,1,3.0,0,0,0
+Passagers,Gafsa,35-44 ans,Féminin,Sans instruction,Sans emploi,5,4,1,12,3.3333333333333335,0,0,0
+Abonnée,Monastir,18-24 ans,Féminin,Universitaire,Salarié,4,1,4,2,3.0,0,0,0
+Abonnée,Sfax,45-54 ans,Masculin,Sans instruction,Sans emploi,4,5,4,7,4.333333333333333,1,0,1
+Passagers,Bizerte,Moins de 18 ans,Masculin,Sans instruction,Etudiant,5,3,2,11,3.3333333333333335,0,0,0
+Colis,Bizerte,45-54 ans,Féminin,Post-universitaire,Sans emploi,5,4,5,13,4.666666666666667,1,0,1
+Colis,Monastir,55 ans et plus,Féminin,Universitaire,Fonctionnaire,2,5,4,2,3.6666666666666665,1,1,1
+Colis,Monastir,45-54 ans,Masculin,Secondaire,Retraité,5,3,4,7,4.0,1,0,1
+Colis,Tunis,55 ans et plus,Féminin,Secondaire,Retraité,2,2,5,15,3.0,0,1,0
+Colis,Gafsa,18-24 ans,Féminin,Universitaire,Sans emploi,2,4,1,11,2.3333333333333335,0,1,0
+Passagers,Monastir,Moins de 18 ans,Féminin,Post-universitaire,Salarié,2,2,4,2,2.6666666666666665,0,1,0
+Passagers,Sousse,18-24 ans,Féminin,Primaire,Salarié,4,1,3,7,2.6666666666666665,0,1,0
+Bureau,Kairouan,25-34 ans,Masculin,Sans instruction,Fonctionnaire,4,2,4,4,3.3333333333333335,0,0,0
+Colis,Sfax,18-24 ans,Féminin,Post-universitaire,Etudiant,5,2,1,11,2.6666666666666665,0,1,0
+Passagers,Gafsa,55 ans et plus,Féminin,Universitaire,Sans emploi,4,4,1,2,3.0,0,0,0
+Bureau,Médenine,18-24 ans,Masculin,Sans instruction,Retraité,5,1,2,16,2.6666666666666665,0,1,0
+Colis,Sousse,18-24 ans,Masculin,Secondaire,Sans emploi,4,2,3,7,3.0,0,0,0
+Abonnée,Nabeul,Moins de 18 ans,Féminin,Primaire,Fonctionnaire,1,5,1,13,2.3333333333333335,0,1,0
+Bureau,Monastir,18-24 ans,Féminin,Secondaire,Commerçant,1,3,5,5,3.0,0,1,0
+Passagers,Médenine,Moins de 18 ans,Féminin,Universitaire,Commerçant,5,2,3,17,3.3333333333333335,0,0,0
+Abonnée,Monastir,35-44 ans,Féminin,Sans instruction,Fonctionnaire,4,1,3,12,2.6666666666666665,0,1,0
+Abonnée,Bizerte,25-34 ans,Masculin,Universitaire,Retraité,4,2,5,19,3.6666666666666665,1,0,0
+Abonnée,Sousse,Moins de 18 ans,Masculin,Sans instruction,Fonctionnaire,2,3,4,7,3.0,0,1,0
+Bureau,Bizerte,55 ans et plus,Masculin,Post-universitaire,Retraité,3,1,5,6,3.0,0,0,0
+Passagers,Tunis,35-44 ans,Féminin,Primaire,Salarié,5,4,5,8,4.666666666666667,1,0,1
+Abonnée,Bizerte,Moins de 18 ans,Féminin,Post-universitaire,Fonctionnaire,3,1,4,13,2.6666666666666665,0,1,0
+Colis,Tunis,Moins de 18 ans,Féminin,Post-universitaire,Retraité,3,4,4,5,3.6666666666666665,1,0,1
+Abonnée,Tunis,25-34 ans,Féminin,Universitaire,Fonctionnaire,5,1,4,2,3.3333333333333335,0,0,0
+Abonnée,Médenine,55 ans et plus,Masculin,Primaire,Fonctionnaire,4,3,4,9,3.6666666666666665,1,0,1
+Bureau,Monastir,45-54 ans,Masculin,Sans instruction,Retraité,5,3,4,11,4.0,1,0,1
+Bureau,Nabeul,45-54 ans,Féminin,Sans instruction,Retraité,3,1,5,6,3.0,0,0,0
+Passagers,Bizerte,Moins de 18 ans,Masculin,Secondaire,Etudiant,4,2,2,7,2.6666666666666665,0,1,0
+Colis,Sousse,18-24 ans,Féminin,Sans instruction,Fonctionnaire,1,3,2,7,2.0,0,1,0
+Bureau,Tunis,55 ans et plus,Féminin,Universitaire,Commerçant,5,4,1,19,3.3333333333333335,0,0,0
+Abonnée,Monastir,35-44 ans,Masculin,Post-universitaire,Fonctionnaire,5,4,2,6,3.6666666666666665,1,0,1
+Passagers,Sfax,18-24 ans,Féminin,Post-universitaire,Fonctionnaire,4,5,2,11,3.6666666666666665,1,0,1
+Abonnée,Gafsa,18-24 ans,Féminin,Post-universitaire,Retraité,1,4,5,11,3.3333333333333335,0,1,0
+Abonnée,Médenine,55 ans et plus,Masculin,Primaire,Fonctionnaire,1,5,4,7,3.3333333333333335,0,1,0
+Bureau,Nabeul,Moins de 18 ans,Féminin,Sans instruction,Sans emploi,4,1,4,2,3.0,0,0,0
+Passagers,Gabès,Moins de 18 ans,Féminin,Universitaire,Fonctionnaire,2,1,5,19,2.6666666666666665,0,1,0
+Colis,Médenine,Moins de 18 ans,Masculin,Primaire,Sans emploi,5,1,2,4,2.6666666666666665,0,1,0
+Colis,Sfax,Moins de 18 ans,Féminin,Secondaire,Commerçant,5,2,5,6,4.0,1,0,0
+Bureau,Gafsa,45-54 ans,Masculin,Universitaire,Retraité,3,2,1,17,2.0,0,1,0
+Bureau,Sfax,Moins de 18 ans,Féminin,Universitaire,Fonctionnaire,4,5,4,5,4.333333333333333,1,0,1
+Passagers,Bizerte,45-54 ans,Masculin,Universitaire,Sans emploi,3,4,3,7,3.3333333333333335,0,0,0
+Colis,Tunis,45-54 ans,Masculin,Post-universitaire,Sans emploi,3,4,1,9,2.6666666666666665,0,1,0
+Colis,Nabeul,Moins de 18 ans,Masculin,Universitaire,Sans emploi,1,1,1,1,1.0,0,1,0
+Colis,Kairouan,25-34 ans,Féminin,Sans instruction,Salarié,5,3,5,1,4.333333333333333,1,0,1
+Abonnée,Tunis,35-44 ans,Masculin,Universitaire,Etudiant,3,2,2,19,2.3333333333333335,0,1,0
+Colis,Kairouan,18-24 ans,Masculin,Post-universitaire,Commerçant,1,2,4,6,2.3333333333333335,0,1,0
+Abonnée,Gafsa,45-54 ans,Masculin,Universitaire,Fonctionnaire,4,1,3,18,2.6666666666666665,0,1,0
+Passagers,Monastir,55 ans et plus,Masculin,Secondaire,Salarié,3,2,1,10,2.0,0,1,0
+Abonnée,Gabès,55 ans et plus,Masculin,Secondaire,Fonctionnaire,5,1,3,11,3.0,0,0,0
+Passagers,Sousse,35-44 ans,Féminin,Post-universitaire,Fonctionnaire,3,5,2,1,3.3333333333333335,0,0,0
+Colis,Tunis,55 ans et plus,Féminin,Sans instruction,Retraité,4,4,2,1,3.3333333333333335,0,0,0
+Colis,Nabeul,25-34 ans,Féminin,Sans instruction,Retraité,3,3,3,13,3.0,0,0,0
+Passagers,Sfax,55 ans et plus,Féminin,Primaire,Retraité,5,4,4,5,4.333333333333333,1,0,1
+Bureau,Nabeul,18-24 ans,Féminin,Post-universitaire,Salarié,1,4,2,1,2.3333333333333335,0,1,0
+Passagers,Gafsa,18-24 ans,Féminin,Universitaire,Fonctionnaire,5,5,3,3,4.333333333333333,1,0,1
+Bureau,Kairouan,45-54 ans,Féminin,Post-universitaire,Etudiant,1,2,1,18,1.3333333333333333,0,1,0
+Abonnée,Sfax,Moins de 18 ans,Masculin,Primaire,Commerçant,2,3,3,9,2.6666666666666665,0,1,0
+Abonnée,Sousse,25-34 ans,Féminin,Post-universitaire,Retraité,5,2,3,14,3.3333333333333335,0,0,0
+Abonnée,Sousse,45-54 ans,Masculin,Post-universitaire,Retraité,5,4,5,17,4.666666666666667,1,0,1
+Colis,Tunis,25-34 ans,Masculin,Primaire,Fonctionnaire,4,1,2,14,2.3333333333333335,0,1,0
+Abonnée,Gafsa,Moins de 18 ans,Féminin,Sans instruction,Fonctionnaire,3,4,4,4,3.6666666666666665,1,0,1
+Bureau,Monastir,55 ans et plus,Masculin,Universitaire,Salarié,1,2,4,5,2.3333333333333335,0,1,0
+Abonnée,Gafsa,55 ans et plus,Masculin,Primaire,Salarié,1,4,5,17,3.3333333333333335,0,1,0
+Passagers,Kairouan,Moins de 18 ans,Masculin,Secondaire,Retraité,4,1,4,2,3.0,0,0,0
+Passagers,Nabeul,45-54 ans,Masculin,Sans instruction,Fonctionnaire,4,5,3,5,4.0,1,0,1
+Colis,Sousse,Moins de 18 ans,Féminin,Secondaire,Etudiant,3,2,5,4,3.3333333333333335,0,0,0
+Passagers,Nabeul,35-44 ans,Féminin,Sans instruction,Commerçant,3,4,1,4,2.6666666666666665,0,1,0
+Bureau,Nabeul,18-24 ans,Féminin,Universitaire,Fonctionnaire,5,2,2,6,3.0,0,0,0
+Abonnée,Nabeul,45-54 ans,Féminin,Universitaire,Fonctionnaire,2,5,2,13,3.0,0,1,0
+Colis,Sousse,25-34 ans,Féminin,Post-universitaire,Sans emploi,3,4,2,5,3.0,0,0,0
+Abonnée,Médenine,35-44 ans,Féminin,Secondaire,Salarié,4,4,3,7,3.6666666666666665,1,0,1
+Abonnée,Bizerte,45-54 ans,Féminin,Sans instruction,Commerçant,3,2,1,1,2.0,0,1,0
+Bureau,Kairouan,Moins de 18 ans,Féminin,Universitaire,Retraité,1,2,5,14,2.6666666666666665,0,1,0
+Passagers,Médenine,Moins de 18 ans,Féminin,Primaire,Fonctionnaire,2,1,5,4,2.6666666666666665,0,1,0
+Passagers,Kairouan,Moins de 18 ans,Féminin,Universitaire,Retraité,5,5,2,17,4.0,1,0,1
+Abonnée,Sfax,Moins de 18 ans,Masculin,Primaire,Fonctionnaire,1,1,1,14,1.0,0,1,0
+Colis,Gafsa,25-34 ans,Féminin,Sans instruction,Retraité,1,4,1,16,2.0,0,1,0
+Passagers,Gafsa,35-44 ans,Masculin,Universitaire,Commerçant,2,2,1,14,1.6666666666666667,0,1,0
+Colis,Gabès,55 ans et plus,Masculin,Universitaire,Salarié,5,4,4,16,4.333333333333333,1,0,1
+Passagers,Gafsa,18-24 ans,Masculin,Sans instruction,Commerçant,4,4,4,8,4.0,1,0,1
+Colis,Sousse,25-34 ans,Masculin,Universitaire,Sans emploi,5,3,2,3,3.3333333333333335,0,0,0
+Bureau,Monastir,25-34 ans,Féminin,Primaire,Etudiant,3,3,1,19,2.3333333333333335,0,1,0
+Colis,Tunis,55 ans et plus,Masculin,Universitaire,Salarié,1,4,1,1,2.0,0,1,0
+Bureau,Gabès,55 ans et plus,Féminin,Secondaire,Commerçant,3,2,5,2,3.3333333333333335,0,0,0
+Bureau,Tunis,18-24 ans,Féminin,Post-universitaire,Sans emploi,4,4,5,15,4.333333333333333,1,0,1
+Colis,Kairouan,18-24 ans,Masculin,Primaire,Etudiant,3,3,2,10,2.6666666666666665,0,1,0
+Bureau,Tunis,55 ans et plus,Féminin,Secondaire,Sans emploi,5,2,1,18,2.6666666666666665,0,1,0
+Abonnée,Tunis,Moins de 18 ans,Masculin,Sans instruction,Fonctionnaire,3,4,2,14,3.0,0,0,0
+Bureau,Gabès,25-34 ans,Masculin,Primaire,Fonctionnaire,4,5,5,17,4.666666666666667,1,0,1
+Passagers,Sfax,45-54 ans,Féminin,Post-universitaire,Retraité,4,5,5,13,4.666666666666667,1,0,1
+Colis,Nabeul,18-24 ans,Féminin,Post-universitaire,Salarié,4,4,4,1,4.0,1,0,1
+Abonnée,Gafsa,18-24 ans,Masculin,Sans instruction,Fonctionnaire,5,2,2,5,3.0,0,0,0
+Colis,Gafsa,55 ans et plus,Féminin,Sans instruction,Sans emploi,4,4,2,13,3.3333333333333335,0,0,0
+Passagers,Sousse,35-44 ans,Féminin,Primaire,Salarié,1,4,1,14,2.0,0,1,0
+Passagers,Gabès,45-54 ans,Féminin,Universitaire,Fonctionnaire,4,3,1,3,2.6666666666666665,0,1,0
+Passagers,Sousse,45-54 ans,Masculin,Sans instruction,Retraité,3,5,4,15,4.0,1,0,1
+Bureau,Monastir,18-24 ans,Masculin,Universitaire,Commerçant,3,3,3,19,3.0,0,0,0
+Bureau,Monastir,Moins de 18 ans,Féminin,Secondaire,Retraité,3,3,3,17,3.0,0,0,0
+Colis,Sousse,35-44 ans,Féminin,Post-universitaire,Etudiant,5,4,3,3,4.0,1,0,1
+Colis,Gabès,45-54 ans,Féminin,Universitaire,Fonctionnaire,3,3,2,16,2.6666666666666665,0,1,0
+Abonnée,Sousse,18-24 ans,Féminin,Post-universitaire,Etudiant,5,5,2,14,4.0,1,0,1
+Abonnée,Gafsa,45-54 ans,Féminin,Universitaire,Etudiant,5,3,5,12,4.333333333333333,1,0,1
+Colis,Médenine,35-44 ans,Masculin,Secondaire,Sans emploi,4,5,2,12,3.6666666666666665,1,0,1
+Bureau,Bizerte,35-44 ans,Féminin,Sans instruction,Salarié,1,3,2,11,2.0,0,1,0
+Passagers,Tunis,25-34 ans,Masculin,Secondaire,Sans emploi,4,5,2,17,3.6666666666666665,1,0,1
+Colis,Bizerte,55 ans et plus,Féminin,Sans instruction,Fonctionnaire,4,3,4,8,3.6666666666666665,1,0,1
+Abonnée,Gabès,55 ans et plus,Masculin,Sans instruction,Etudiant,5,3,2,17,3.3333333333333335,0,0,0
+Bureau,Bizerte,18-24 ans,Féminin,Post-universitaire,Commerçant,5,2,1,11,2.6666666666666665,0,1,0
+Colis,Monastir,35-44 ans,Masculin,Secondaire,Etudiant,3,5,1,2,3.0,0,0,0
+Colis,Kairouan,25-34 ans,Féminin,Universitaire,Commerçant,3,5,5,10,4.333333333333333,1,0,1
+Bureau,Tunis,25-34 ans,Masculin,Secondaire,Sans emploi,4,5,4,10,4.333333333333333,1,0,1
+Colis,Nabeul,45-54 ans,Masculin,Post-universitaire,Sans emploi,2,1,1,11,1.3333333333333333,0,1,0
+Bureau,Gabès,45-54 ans,Masculin,Sans instruction,Salarié,2,3,4,6,3.0,0,1,0
+Passagers,Tunis,25-34 ans,Masculin,Post-universitaire,Etudiant,3,5,4,4,4.0,1,0,1
+Bureau,Bizerte,45-54 ans,Masculin,Primaire,Retraité,2,1,5,12,2.6666666666666665,0,1,0
+Bureau,Monastir,35-44 ans,Masculin,Primaire,Sans emploi,3,2,4,11,3.0,0,0,0
+Bureau,Sfax,Moins de 18 ans,Féminin,Universitaire,Sans emploi,5,5,2,13,4.0,1,0,1
+Colis,Médenine,35-44 ans,Masculin,Post-universitaire,Salarié,4,5,4,5,4.333333333333333,1,0,1
+Colis,Nabeul,25-34 ans,Féminin,Universitaire,Commerçant,1,1,5,6,2.3333333333333335,0,1,0
+Bureau,Médenine,25-34 ans,Féminin,Universitaire,Salarié,4,3,5,1,4.0,1,0,1
+Colis,Tunis,35-44 ans,Féminin,Primaire,Etudiant,3,2,5,6,3.3333333333333335,0,0,0
+Abonnée,Monastir,45-54 ans,Féminin,Universitaire,Fonctionnaire,3,5,1,18,3.0,0,0,0
+Abonnée,Monastir,45-54 ans,Féminin,Primaire,Fonctionnaire,4,3,2,9,3.0,0,0,0
+Colis,Bizerte,55 ans et plus,Masculin,Sans instruction,Commerçant,3,2,1,15,2.0,0,1,0
+Colis,Gafsa,25-34 ans,Masculin,Post-universitaire,Sans emploi,2,4,3,8,3.0,0,1,0
+Bureau,Bizerte,18-24 ans,Masculin,Universitaire,Commerçant,2,4,2,19,2.6666666666666665,0,1,0
+Passagers,Gafsa,55 ans et plus,Féminin,Primaire,Sans emploi,3,2,4,16,3.0,0,0,0
+Colis,Gafsa,45-54 ans,Masculin,Secondaire,Sans emploi,3,1,5,6,3.0,0,0,0
+Abonnée,Nabeul,35-44 ans,Masculin,Universitaire,Fonctionnaire,2,2,3,6,2.3333333333333335,0,1,0
+Bureau,Bizerte,45-54 ans,Masculin,Sans instruction,Commerçant,3,2,2,3,2.3333333333333335,0,1,0
+Colis,Sfax,35-44 ans,Masculin,Sans instruction,Salarié,3,1,1,10,1.6666666666666667,0,1,0
+Abonnée,Sousse,55 ans et plus,Masculin,Secondaire,Sans emploi,4,1,5,1,3.3333333333333335,0,0,0
+Abonnée,Sousse,25-34 ans,Féminin,Primaire,Retraité,1,3,1,14,1.6666666666666667,0,1,0
+Passagers,Bizerte,45-54 ans,Masculin,Universitaire,Retraité,2,3,2,4,2.3333333333333335,0,1,0
+Bureau,Bizerte,35-44 ans,Féminin,Primaire,Salarié,4,1,2,12,2.3333333333333335,0,1,0
+Bureau,Médenine,25-34 ans,Féminin,Sans instruction,Retraité,1,4,3,6,2.6666666666666665,0,1,0
+Passagers,Nabeul,18-24 ans,Féminin,Primaire,Etudiant,3,4,4,11,3.6666666666666665,1,0,1
+Passagers,Bizerte,35-44 ans,Féminin,Sans instruction,Sans emploi,3,2,1,12,2.0,0,1,0
+Bureau,Médenine,55 ans et plus,Féminin,Primaire,Salarié,4,5,3,10,4.0,1,0,1
+Bureau,Gafsa,18-24 ans,Masculin,Secondaire,Commerçant,3,2,5,18,3.3333333333333335,0,0,0
+Colis,Monastir,18-24 ans,Masculin,Post-universitaire,Sans emploi,5,2,4,7,3.6666666666666665,1,0,0
+Colis,Monastir,Moins de 18 ans,Masculin,Secondaire,Salarié,4,5,3,7,4.0,1,0,1
+Passagers,Gafsa,45-54 ans,Féminin,Secondaire,Fonctionnaire,1,1,1,11,1.0,0,1,0
+Colis,Gabès,35-44 ans,Masculin,Post-universitaire,Commerçant,4,4,2,4,3.3333333333333335,0,0,0
+Abonnée,Médenine,18-24 ans,Masculin,Post-universitaire,Fonctionnaire,2,2,5,1,3.0,0,1,0
+Colis,Médenine,Moins de 18 ans,Féminin,Universitaire,Sans emploi,4,5,1,13,3.3333333333333335,0,0,0
+Colis,Gafsa,55 ans et plus,Féminin,Universitaire,Commerçant,3,3,4,18,3.3333333333333335,0,0,0
+Abonnée,Sfax,25-34 ans,Féminin,Secondaire,Retraité,3,2,4,9,3.0,0,0,0
+Passagers,Kairouan,35-44 ans,Féminin,Secondaire,Salarié,5,4,2,9,3.6666666666666665,1,0,1
+Abonnée,Tunis,18-24 ans,Masculin,Sans instruction,Sans emploi,5,1,2,9,2.6666666666666665,0,1,0
+Colis,Gafsa,45-54 ans,Féminin,Sans instruction,Etudiant,5,2,5,10,4.0,1,0,0
+Passagers,Bizerte,Moins de 18 ans,Féminin,Universitaire,Commerçant,1,2,5,2,2.6666666666666665,0,1,0
+Colis,Bizerte,18-24 ans,Masculin,Universitaire,Commerçant,5,5,2,6,4.0,1,0,1
+Abonnée,Nabeul,45-54 ans,Masculin,Sans instruction,Sans emploi,1,3,2,15,2.0,0,1,0
+Abonnée,Gafsa,18-24 ans,Féminin,Sans instruction,Sans emploi,5,3,4,3,4.0,1,0,1
+Colis,Nabeul,35-44 ans,Masculin,Primaire,Fonctionnaire,1,1,2,11,1.3333333333333333,0,1,0
+Bureau,Gafsa,35-44 ans,Féminin,Primaire,Retraité,4,4,3,6,3.6666666666666665,1,0,1
+Bureau,Médenine,35-44 ans,Féminin,Sans instruction,Fonctionnaire,4,1,1,3,2.0,0,1,0
+Abonnée,Tunis,55 ans et plus,Masculin,Primaire,Fonctionnaire,3,2,2,11,2.3333333333333335,0,1,0
+Abonnée,Médenine,55 ans et plus,Masculin,Post-universitaire,Retraité,1,2,5,15,2.6666666666666665,0,1,0
+Bureau,Kairouan,Moins de 18 ans,Féminin,Universitaire,Etudiant,2,3,3,13,2.6666666666666665,0,1,0
+Bureau,Monastir,35-44 ans,Féminin,Universitaire,Fonctionnaire,3,4,5,10,4.0,1,0,1
+Colis,Sousse,45-54 ans,Féminin,Sans instruction,Fonctionnaire,4,5,3,6,4.0,1,0,1
+Colis,Gafsa,18-24 ans,Masculin,Secondaire,Commerçant,1,4,2,15,2.3333333333333335,0,1,0
+Bureau,Kairouan,25-34 ans,Féminin,Sans instruction,Retraité,5,2,1,18,2.6666666666666665,0,1,0
+Colis,Monastir,45-54 ans,Féminin,Primaire,Salarié,2,5,5,18,4.0,1,1,1
+Colis,Gabès,55 ans et plus,Féminin,Secondaire,Etudiant,4,4,3,7,3.6666666666666665,1,0,1
+Passagers,Tunis,55 ans et plus,Féminin,Primaire,Etudiant,3,4,4,15,3.6666666666666665,1,0,1
+Colis,Nabeul,45-54 ans,Féminin,Post-universitaire,Retraité,1,5,2,18,2.6666666666666665,0,1,0
+Abonnée,Nabeul,55 ans et plus,Masculin,Primaire,Sans emploi,2,2,1,18,1.6666666666666667,0,1,0
+Colis,Médenine,35-44 ans,Féminin,Post-universitaire,Sans emploi,1,4,2,9,2.3333333333333335,0,1,0
+Colis,Bizerte,Moins de 18 ans,Féminin,Post-universitaire,Commerçant,5,5,4,2,4.666666666666667,1,0,1
+Bureau,Monastir,18-24 ans,Féminin,Primaire,Commerçant,3,2,1,8,2.0,0,1,0
+Abonnée,Gabès,Moins de 18 ans,Féminin,Primaire,Retraité,1,5,4,2,3.3333333333333335,0,1,0
+Colis,Kairouan,18-24 ans,Masculin,Post-universitaire,Commerçant,4,5,2,11,3.6666666666666665,1,0,1
+Colis,Tunis,18-24 ans,Masculin,Secondaire,Etudiant,3,4,3,7,3.3333333333333335,0,0,0
+Passagers,Monastir,Moins de 18 ans,Masculin,Post-universitaire,Etudiant,4,2,2,6,2.6666666666666665,0,1,0
+Colis,Gabès,45-54 ans,Féminin,Universitaire,Salarié,1,4,2,10,2.3333333333333335,0,1,0
+Colis,Sousse,18-24 ans,Féminin,Post-universitaire,Sans emploi,3,1,2,5,2.0,0,1,0
+Passagers,Gafsa,Moins de 18 ans,Masculin,Secondaire,Retraité,4,1,5,11,3.3333333333333335,0,0,0
+Bureau,Nabeul,18-24 ans,Masculin,Universitaire,Fonctionnaire,5,2,4,1,3.6666666666666665,1,0,0
+Colis,Kairouan,25-34 ans,Masculin,Sans instruction,Sans emploi,5,5,4,2,4.666666666666667,1,0,1
+Passagers,Nabeul,45-54 ans,Féminin,Sans instruction,Fonctionnaire,1,4,4,1,3.0,0,1,0
+Abonnée,Kairouan,35-44 ans,Féminin,Secondaire,Salarié,3,4,5,19,4.0,1,0,1
+Bureau,Médenine,18-24 ans,Masculin,Post-universitaire,Salarié,2,2,3,2,2.3333333333333335,0,1,0
+Abonnée,Bizerte,25-34 ans,Masculin,Primaire,Commerçant,3,2,2,4,2.3333333333333335,0,1,0
+Abonnée,Kairouan,35-44 ans,Masculin,Secondaire,Salarié,5,1,3,12,3.0,0,0,0
+Passagers,Nabeul,35-44 ans,Féminin,Universitaire,Salarié,4,3,5,18,4.0,1,0,1
+Colis,Médenine,18-24 ans,Féminin,Universitaire,Fonctionnaire,2,2,4,1,2.6666666666666665,0,1,0
+Passagers,Kairouan,Moins de 18 ans,Féminin,Sans instruction,Commerçant,1,3,2,1,2.0,0,1,0
+Passagers,Sousse,18-24 ans,Masculin,Universitaire,Salarié,2,2,1,14,1.6666666666666667,0,1,0
+Passagers,Bizerte,25-34 ans,Masculin,Secondaire,Sans emploi,1,5,1,4,2.3333333333333335,0,1,0
+Passagers,Kairouan,35-44 ans,Féminin,Universitaire,Salarié,2,5,3,5,3.3333333333333335,0,1,0
+Bureau,Médenine,18-24 ans,Masculin,Secondaire,Commerçant,1,1,4,11,2.0,0,1,0
+Colis,Monastir,Moins de 18 ans,Féminin,Primaire,Retraité,1,1,1,13,1.0,0,1,0
+Abonnée,Sfax,18-24 ans,Masculin,Sans instruction,Commerçant,2,3,3,16,2.6666666666666665,0,1,0
+Abonnée,Gabès,45-54 ans,Masculin,Universitaire,Fonctionnaire,2,2,5,13,3.0,0,1,0
+Colis,Sfax,Moins de 18 ans,Masculin,Secondaire,Retraité,1,4,3,2,2.6666666666666665,0,1,0
+Abonnée,Sfax,25-34 ans,Masculin,Post-universitaire,Sans emploi,5,1,3,16,3.0,0,0,0
+Colis,Tunis,35-44 ans,Féminin,Sans instruction,Etudiant,2,4,3,6,3.0,0,1,0
+Abonnée,Sousse,18-24 ans,Masculin,Primaire,Commerçant,3,4,2,14,3.0,0,0,0
+Passagers,Monastir,Moins de 18 ans,Féminin,Secondaire,Fonctionnaire,4,2,3,1,3.0,0,0,0
+Abonnée,Gafsa,45-54 ans,Féminin,Primaire,Sans emploi,1,3,3,17,2.3333333333333335,0,1,0
+Colis,Kairouan,Moins de 18 ans,Féminin,Primaire,Retraité,1,2,2,11,1.6666666666666667,0,1,0
+Colis,Gabès,55 ans et plus,Masculin,Universitaire,Sans emploi,4,1,2,19,2.3333333333333335,0,1,0
+Colis,Bizerte,45-54 ans,Féminin,Universitaire,Commerçant,5,4,5,3,4.666666666666667,1,0,1
+Colis,Monastir,25-34 ans,Féminin,Secondaire,Salarié,4,2,4,11,3.3333333333333335,0,0,0
+Colis,Nabeul,35-44 ans,Féminin,Post-universitaire,Commerçant,2,2,1,5,1.6666666666666667,0,1,0
+Bureau,Gafsa,25-34 ans,Masculin,Secondaire,Etudiant,4,2,1,17,2.3333333333333335,0,1,0
+Bureau,Tunis,18-24 ans,Masculin,Post-universitaire,Commerçant,1,1,3,7,1.6666666666666667,0,1,0
+Abonnée,Tunis,Moins de 18 ans,Féminin,Primaire,Retraité,4,3,5,10,4.0,1,0,1
+Colis,Monastir,55 ans et plus,Masculin,Sans instruction,Retraité,3,2,3,11,2.6666666666666665,0,1,0
+Abonnée,Médenine,45-54 ans,Féminin,Secondaire,Commerçant,2,1,1,3,1.3333333333333333,0,1,0
+Colis,Sfax,45-54 ans,Féminin,Secondaire,Retraité,4,4,2,10,3.3333333333333335,0,0,0
+Colis,Nabeul,Moins de 18 ans,Masculin,Post-universitaire,Salarié,1,5,4,10,3.3333333333333335,0,1,0
+Bureau,Tunis,55 ans et plus,Féminin,Primaire,Sans emploi,2,1,5,14,2.6666666666666665,0,1,0
+Bureau,Gabès,Moins de 18 ans,Masculin,Primaire,Commerçant,1,5,2,12,2.6666666666666665,0,1,0
+Passagers,Tunis,18-24 ans,Masculin,Post-universitaire,Salarié,5,2,4,15,3.6666666666666665,1,0,0
+Bureau,Bizerte,25-34 ans,Féminin,Primaire,Sans emploi,3,2,5,10,3.3333333333333335,0,0,0
+Passagers,Kairouan,45-54 ans,Masculin,Universitaire,Sans emploi,5,1,5,10,3.6666666666666665,1,0,0
+Passagers,Tunis,18-24 ans,Masculin,Sans instruction,Salarié,3,5,1,19,3.0,0,0,0
+Passagers,Bizerte,25-34 ans,Féminin,Secondaire,Fonctionnaire,4,2,2,1,2.6666666666666665,0,1,0
+Passagers,Monastir,18-24 ans,Féminin,Sans instruction,Commerçant,2,4,5,10,3.6666666666666665,1,1,1
+Passagers,Monastir,55 ans et plus,Masculin,Secondaire,Sans emploi,4,3,5,2,4.0,1,0,1
+Abonnée,Gafsa,45-54 ans,Masculin,Universitaire,Sans emploi,3,3,4,17,3.3333333333333335,0,0,0
+Bureau,Tunis,Moins de 18 ans,Féminin,Primaire,Retraité,3,2,1,7,2.0,0,1,0
+Passagers,Gabès,Moins de 18 ans,Masculin,Post-universitaire,Sans emploi,3,5,3,7,3.6666666666666665,1,0,1
+Colis,Tunis,25-34 ans,Masculin,Universitaire,Salarié,1,2,1,9,1.3333333333333333,0,1,0
+Bureau,Gabès,35-44 ans,Masculin,Sans instruction,Sans emploi,2,5,3,2,3.3333333333333335,0,1,0
+Bureau,Sousse,55 ans et plus,Masculin,Post-universitaire,Fonctionnaire,4,4,2,14,3.3333333333333335,0,0,0
+Passagers,Gafsa,25-34 ans,Masculin,Primaire,Commerçant,4,5,2,17,3.6666666666666665,1,0,1
+Abonnée,Sousse,35-44 ans,Masculin,Universitaire,Commerçant,5,2,5,1,4.0,1,0,0
+Passagers,Tunis,18-24 ans,Masculin,Post-universitaire,Sans emploi,3,4,2,9,3.0,0,0,0
+Abonnée,Gafsa,55 ans et plus,Féminin,Universitaire,Etudiant,3,1,5,19,3.0,0,0,0
+Colis,Sousse,18-24 ans,Féminin,Universitaire,Etudiant,3,3,1,4,2.3333333333333335,0,1,0
+Bureau,Sfax,45-54 ans,Féminin,Primaire,Salarié,4,2,2,8,2.6666666666666665,0,1,0
+Colis,Tunis,55 ans et plus,Féminin,Secondaire,Etudiant,5,2,1,13,2.6666666666666665,0,1,0
+Abonnée,Sousse,35-44 ans,Féminin,Post-universitaire,Salarié,1,2,1,4,1.3333333333333333,0,1,0
+Abonnée,Sfax,45-54 ans,Masculin,Primaire,Retraité,2,4,2,9,2.6666666666666665,0,1,0
+Colis,Sfax,Moins de 18 ans,Masculin,Universitaire,Salarié,1,1,1,9,1.0,0,1,0
+Abonnée,Monastir,35-44 ans,Masculin,Primaire,Etudiant,4,5,2,18,3.6666666666666665,1,0,1
+Colis,Tunis,25-34 ans,Masculin,Secondaire,Sans emploi,3,1,2,12,2.0,0,1,0
+Bureau,Sfax,Moins de 18 ans,Féminin,Post-universitaire,Retraité,2,4,2,10,2.6666666666666665,0,1,0
+Colis,Monastir,Moins de 18 ans,Masculin,Secondaire,Etudiant,4,2,3,11,3.0,0,0,0
+Bureau,Sousse,25-34 ans,Masculin,Sans instruction,Salarié,4,3,1,7,2.6666666666666665,0,1,0
+Colis,Bizerte,55 ans et plus,Féminin,Post-universitaire,Fonctionnaire,4,2,4,9,3.3333333333333335,0,0,0
+Abonnée,Tunis,Moins de 18 ans,Masculin,Secondaire,Commerçant,2,5,2,6,3.0,0,1,0
+Colis,Gafsa,35-44 ans,Masculin,Universitaire,Etudiant,2,3,1,19,2.0,0,1,0
+Abonnée,Gabès,45-54 ans,Féminin,Post-universitaire,Salarié,5,2,5,16,4.0,1,0,0
+Colis,Gabès,Moins de 18 ans,Masculin,Post-universitaire,Retraité,5,3,2,15,3.3333333333333335,0,0,0
+Colis,Sousse,35-44 ans,Masculin,Primaire,Etudiant,1,1,2,7,1.3333333333333333,0,1,0
+Passagers,Médenine,18-24 ans,Masculin,Universitaire,Etudiant,2,4,4,16,3.3333333333333335,0,1,0
+Abonnée,Médenine,35-44 ans,Masculin,Sans instruction,Commerçant,2,2,3,5,2.3333333333333335,0,1,0
+Passagers,Sousse,45-54 ans,Masculin,Secondaire,Salarié,2,5,3,16,3.3333333333333335,0,1,0
+Abonnée,Sfax,35-44 ans,Féminin,Primaire,Fonctionnaire,5,1,2,1,2.6666666666666665,0,1,0
+Passagers,Tunis,25-34 ans,Féminin,Secondaire,Retraité,4,2,1,19,2.3333333333333335,0,1,0
+Bureau,Gabès,45-54 ans,Féminin,Sans instruction,Salarié,3,1,5,5,3.0,0,0,0
+Colis,Gabès,55 ans et plus,Féminin,Sans instruction,Retraité,5,5,5,7,5.0,1,0,1
+Abonnée,Sfax,18-24 ans,Féminin,Post-universitaire,Etudiant,2,2,1,19,1.6666666666666667,0,1,0
+Abonnée,Gabès,25-34 ans,Féminin,Sans instruction,Commerçant,5,5,2,5,4.0,1,0,1
+Colis,Gafsa,55 ans et plus,Masculin,Secondaire,Commerçant,1,3,5,17,3.0,0,1,0
+Abonnée,Tunis,35-44 ans,Féminin,Universitaire,Sans emploi,2,5,3,8,3.3333333333333335,0,1,0
+Abonnée,Kairouan,45-54 ans,Féminin,Universitaire,Fonctionnaire,1,3,1,1,1.6666666666666667,0,1,0
+Passagers,Gabès,18-24 ans,Masculin,Post-universitaire,Commerçant,2,2,4,2,2.6666666666666665,0,1,0
+Abonnée,Sousse,25-34 ans,Masculin,Secondaire,Etudiant,5,3,2,15,3.3333333333333335,0,0,0
+Bureau,Gafsa,55 ans et plus,Féminin,Secondaire,Fonctionnaire,4,2,1,18,2.3333333333333335,0,1,0
+Bureau,Gabès,55 ans et plus,Masculin,Sans instruction,Salarié,3,2,5,11,3.3333333333333335,0,0,0
+Colis,Gafsa,18-24 ans,Féminin,Secondaire,Commerçant,1,4,2,10,2.3333333333333335,0,1,0
+Abonnée,Monastir,35-44 ans,Masculin,Primaire,Fonctionnaire,5,2,3,4,3.3333333333333335,0,0,0
+Colis,Kairouan,18-24 ans,Féminin,Sans instruction,Etudiant,4,3,2,5,3.0,0,0,0
+Bureau,Nabeul,55 ans et plus,Masculin,Primaire,Sans emploi,5,4,2,4,3.6666666666666665,1,0,1
+Abonnée,Sousse,Moins de 18 ans,Masculin,Post-universitaire,Retraité,1,4,3,13,2.6666666666666665,0,1,0
+Abonnée,Sousse,25-34 ans,Féminin,Universitaire,Retraité,3,2,3,13,2.6666666666666665,0,1,0
+Colis,Tunis,18-24 ans,Féminin,Post-universitaire,Etudiant,5,5,2,18,4.0,1,0,1
+Bureau,Gafsa,55 ans et plus,Féminin,Universitaire,Etudiant,2,5,3,2,3.3333333333333335,0,1,0
+Abonnée,Sfax,35-44 ans,Féminin,Post-universitaire,Retraité,4,4,1,16,3.0,0,0,0
+Colis,Sousse,55 ans et plus,Féminin,Secondaire,Sans emploi,5,2,3,1,3.3333333333333335,0,0,0
+Bureau,Gafsa,35-44 ans,Masculin,Primaire,Fonctionnaire,4,5,3,19,4.0,1,0,1
+Colis,Gafsa,18-24 ans,Féminin,Universitaire,Retraité,2,2,2,9,2.0,0,1,0
+Passagers,Bizerte,35-44 ans,Féminin,Sans instruction,Etudiant,3,2,1,3,2.0,0,1,0
+Abonnée,Bizerte,45-54 ans,Masculin,Primaire,Commerçant,3,4,4,7,3.6666666666666665,1,0,1
+Passagers,Nabeul,45-54 ans,Masculin,Sans instruction,Salarié,2,4,4,10,3.3333333333333335,0,1,0
+Bureau,Monastir,45-54 ans,Féminin,Primaire,Sans emploi,4,1,5,1,3.3333333333333335,0,0,0
+Passagers,Nabeul,Moins de 18 ans,Masculin,Primaire,Sans emploi,5,5,3,10,4.333333333333333,1,0,1
+Passagers,Gabès,18-24 ans,Masculin,Post-universitaire,Commerçant,2,5,3,9,3.3333333333333335,0,1,0
+Bureau,Sfax,55 ans et plus,Féminin,Universitaire,Commerçant,1,5,1,15,2.3333333333333335,0,1,0
+Colis,Gabès,55 ans et plus,Masculin,Universitaire,Etudiant,4,3,4,15,3.6666666666666665,1,0,1
+Passagers,Médenine,Moins de 18 ans,Masculin,Primaire,Retraité,3,2,5,3,3.3333333333333335,0,0,0
+Colis,Gabès,35-44 ans,Féminin,Secondaire,Fonctionnaire,2,4,1,5,2.3333333333333335,0,1,0
+Passagers,Tunis,Moins de 18 ans,Féminin,Secondaire,Sans emploi,3,5,3,9,3.6666666666666665,1,0,1
+Colis,Gabès,35-44 ans,Masculin,Sans instruction,Sans emploi,4,1,4,9,3.0,0,0,0
+Bureau,Nabeul,35-44 ans,Masculin,Sans instruction,Commerçant,3,5,5,7,4.333333333333333,1,0,1
+Passagers,Sousse,25-34 ans,Féminin,Post-universitaire,Retraité,2,2,2,12,2.0,0,1,0
+Bureau,Sousse,55 ans et plus,Masculin,Primaire,Sans emploi,4,2,4,9,3.3333333333333335,0,0,0
+Passagers,Bizerte,45-54 ans,Masculin,Sans instruction,Fonctionnaire,1,4,5,6,3.3333333333333335,0,1,0
+Bureau,Sfax,35-44 ans,Masculin,Sans instruction,Commerçant,2,3,1,2,2.0,0,1,0
+Bureau,Sfax,25-34 ans,Féminin,Primaire,Fonctionnaire,5,4,2,9,3.6666666666666665,1,0,1
+Passagers,Tunis,55 ans et plus,Masculin,Post-universitaire,Retraité,2,5,5,17,4.0,1,1,1
+Passagers,Nabeul,45-54 ans,Masculin,Sans instruction,Sans emploi,4,1,5,1,3.3333333333333335,0,0,0
+Passagers,Bizerte,35-44 ans,Féminin,Post-universitaire,Salarié,2,4,3,19,3.0,0,1,0
+Abonnée,Médenine,35-44 ans,Masculin,Universitaire,Sans emploi,1,3,4,6,2.6666666666666665,0,1,0
+Colis,Sfax,Moins de 18 ans,Masculin,Post-universitaire,Retraité,1,4,3,5,2.6666666666666665,0,1,0
+Abonnée,Sousse,Moins de 18 ans,Féminin,Secondaire,Sans emploi,5,2,2,2,3.0,0,0,0
+Abonnée,Gabès,55 ans et plus,Féminin,Secondaire,Sans emploi,3,5,5,9,4.333333333333333,1,0,1
+Bureau,Gabès,45-54 ans,Féminin,Post-universitaire,Etudiant,4,5,3,14,4.0,1,0,1
+Passagers,Bizerte,35-44 ans,Féminin,Secondaire,Sans emploi,4,5,4,4,4.333333333333333,1,0,1
+Colis,Nabeul,55 ans et plus,Masculin,Universitaire,Sans emploi,3,5,2,4,3.3333333333333335,0,0,0
+Bureau,Nabeul,55 ans et plus,Masculin,Primaire,Fonctionnaire,1,5,1,15,2.3333333333333335,0,1,0
+Abonnée,Monastir,18-24 ans,Féminin,Secondaire,Salarié,1,5,3,8,3.0,0,1,0
+Passagers,Kairouan,Moins de 18 ans,Féminin,Secondaire,Fonctionnaire,2,1,2,4,1.6666666666666667,0,1,0
+Bureau,Sfax,45-54 ans,Masculin,Post-universitaire,Fonctionnaire,5,3,1,16,3.0,0,0,0
+Passagers,Nabeul,35-44 ans,Féminin,Universitaire,Commerçant,5,5,3,4,4.333333333333333,1,0,1
+Bureau,Sousse,55 ans et plus,Masculin,Primaire,Etudiant,5,3,2,16,3.3333333333333335,0,0,0
+Passagers,Bizerte,35-44 ans,Féminin,Post-universitaire,Fonctionnaire,2,5,2,12,3.0,0,1,0
+Abonnée,Médenine,18-24 ans,Masculin,Post-universitaire,Retraité,5,4,3,16,4.0,1,0,1
+Colis,Monastir,45-54 ans,Féminin,Universitaire,Retraité,3,5,2,19,3.3333333333333335,0,0,0
+Abonnée,Gafsa,55 ans et plus,Féminin,Primaire,Sans emploi,2,2,5,8,3.0,0,1,0
+Colis,Tunis,35-44 ans,Masculin,Universitaire,Commerçant,3,1,3,6,2.3333333333333335,0,1,0
+Passagers,Médenine,Moins de 18 ans,Féminin,Primaire,Etudiant,2,4,2,10,2.6666666666666665,0,1,0
+Bureau,Gafsa,18-24 ans,Masculin,Universitaire,Etudiant,5,4,1,5,3.3333333333333335,0,0,0
+Abonnée,Gabès,45-54 ans,Masculin,Post-universitaire,Sans emploi,3,2,1,18,2.0,0,1,0
+Colis,Tunis,18-24 ans,Masculin,Post-universitaire,Retraité,3,5,5,10,4.333333333333333,1,0,1
+Abonnée,Sfax,Moins de 18 ans,Masculin,Sans instruction,Salarié,3,1,3,10,2.3333333333333335,0,1,0
+Colis,Sousse,45-54 ans,Masculin,Secondaire,Commerçant,2,4,2,7,2.6666666666666665,0,1,0
+Abonnée,Tunis,18-24 ans,Féminin,Universitaire,Sans emploi,4,1,2,18,2.3333333333333335,0,1,0
+Colis,Kairouan,25-34 ans,Féminin,Sans instruction,Commerçant,5,4,1,1,3.3333333333333335,0,0,0
+Colis,Gafsa,Moins de 18 ans,Masculin,Secondaire,Retraité,3,5,5,7,4.333333333333333,1,0,1
+Passagers,Sfax,Moins de 18 ans,Féminin,Universitaire,Retraité,4,4,1,1,3.0,0,0,0
+Colis,Kairouan,Moins de 18 ans,Masculin,Primaire,Salarié,5,4,1,15,3.3333333333333335,0,0,0
+Passagers,Gabès,25-34 ans,Féminin,Secondaire,Salarié,5,3,5,4,4.333333333333333,1,0,1
+Colis,Kairouan,25-34 ans,Féminin,Post-universitaire,Etudiant,3,5,3,10,3.6666666666666665,1,0,1
+Bureau,Monastir,35-44 ans,Féminin,Sans instruction,Commerçant,3,2,2,9,2.3333333333333335,0,1,0
+Bureau,Monastir,55 ans et plus,Féminin,Secondaire,Commerçant,2,2,3,2,2.3333333333333335,0,1,0
+Bureau,Bizerte,18-24 ans,Masculin,Secondaire,Retraité,4,5,4,14,4.333333333333333,1,0,1
+Colis,Médenine,35-44 ans,Masculin,Post-universitaire,Etudiant,4,2,4,16,3.3333333333333335,0,0,0
+Passagers,Médenine,18-24 ans,Féminin,Universitaire,Sans emploi,3,5,4,1,4.0,1,0,1
+Passagers,Sfax,55 ans et plus,Féminin,Primaire,Commerçant,5,2,5,2,4.0,1,0,0
+Colis,Gabès,25-34 ans,Masculin,Post-universitaire,Etudiant,3,3,1,7,2.3333333333333335,0,1,0
+Bureau,Nabeul,55 ans et plus,Féminin,Primaire,Etudiant,5,2,3,10,3.3333333333333335,0,0,0
+Bureau,Monastir,25-34 ans,Masculin,Universitaire,Retraité,5,4,2,1,3.6666666666666665,1,0,1
+Passagers,Sfax,55 ans et plus,Masculin,Secondaire,Etudiant,3,5,4,13,4.0,1,0,1
+Bureau,Nabeul,35-44 ans,Masculin,Primaire,Salarié,1,1,3,1,1.6666666666666667,0,1,0
+Abonnée,Médenine,45-54 ans,Féminin,Sans instruction,Salarié,4,1,4,5,3.0,0,0,0
+Passagers,Bizerte,35-44 ans,Masculin,Sans instruction,Fonctionnaire,5,5,4,16,4.666666666666667,1,0,1
+Bureau,Kairouan,18-24 ans,Féminin,Post-universitaire,Retraité,5,3,2,15,3.3333333333333335,0,0,0
+Passagers,Monastir,35-44 ans,Masculin,Universitaire,Sans emploi,1,2,5,17,2.6666666666666665,0,1,0
+Abonnée,Sfax,Moins de 18 ans,Féminin,Post-universitaire,Fonctionnaire,2,3,1,16,2.0,0,1,0
+Passagers,Tunis,18-24 ans,Féminin,Post-universitaire,Salarié,1,1,5,13,2.3333333333333335,0,1,0
+Passagers,Nabeul,55 ans et plus,Féminin,Post-universitaire,Fonctionnaire,1,5,3,11,3.0,0,1,0
+Passagers,Kairouan,18-24 ans,Masculin,Sans instruction,Retraité,5,5,5,17,5.0,1,0,1
+Passagers,Monastir,45-54 ans,Masculin,Sans instruction,Retraité,4,3,3,17,3.3333333333333335,0,0,0
+Abonnée,Médenine,25-34 ans,Féminin,Post-universitaire,Etudiant,1,3,3,2,2.3333333333333335,0,1,0
+Colis,Gabès,55 ans et plus,Féminin,Sans instruction,Commerçant,2,2,1,13,1.6666666666666667,0,1,0
+Passagers,Nabeul,18-24 ans,Féminin,Universitaire,Etudiant,3,4,2,14,3.0,0,0,0
+Passagers,Médenine,55 ans et plus,Masculin,Post-universitaire,Retraité,1,4,1,11,2.0,0,1,0
+Bureau,Monastir,55 ans et plus,Masculin,Sans instruction,Salarié,1,2,5,10,2.6666666666666665,0,1,0
+Passagers,Nabeul,55 ans et plus,Masculin,Primaire,Sans emploi,2,4,3,3,3.0,0,1,0
+Bureau,Kairouan,25-34 ans,Masculin,Post-universitaire,Salarié,4,1,4,17,3.0,0,0,0
+Colis,Monastir,35-44 ans,Féminin,Post-universitaire,Etudiant,1,4,4,15,3.0,0,1,0
+Abonnée,Gafsa,55 ans et plus,Féminin,Universitaire,Sans emploi,1,2,3,9,2.0,0,1,0
+Abonnée,Sfax,Moins de 18 ans,Masculin,Secondaire,Retraité,4,4,1,10,3.0,0,0,0
+Colis,Kairouan,45-54 ans,Masculin,Secondaire,Salarié,2,5,2,8,3.0,0,1,0
+Abonnée,Nabeul,25-34 ans,Féminin,Universitaire,Retraité,1,3,1,13,1.6666666666666667,0,1,0
+Colis,Gabès,18-24 ans,Masculin,Universitaire,Sans emploi,4,1,3,18,2.6666666666666665,0,1,0
+Colis,Médenine,25-34 ans,Masculin,Universitaire,Sans emploi,1,5,3,5,3.0,0,1,0
+Colis,Tunis,18-24 ans,Masculin,Secondaire,Salarié,3,5,2,6,3.3333333333333335,0,0,0
+Abonnée,Médenine,25-34 ans,Masculin,Universitaire,Retraité,5,2,5,17,4.0,1,0,0
+Bureau,Nabeul,18-24 ans,Masculin,Sans instruction,Fonctionnaire,3,3,5,11,3.6666666666666665,1,0,1
+Colis,Médenine,55 ans et plus,Masculin,Post-universitaire,Retraité,1,3,2,16,2.0,0,1,0
+Passagers,Sfax,35-44 ans,Féminin,Post-universitaire,Sans emploi,2,1,5,9,2.6666666666666665,0,1,0
+Abonnée,Monastir,18-24 ans,Masculin,Primaire,Retraité,5,2,4,2,3.6666666666666665,1,0,0
+Colis,Tunis,18-24 ans,Masculin,Primaire,Etudiant,3,1,5,5,3.0,0,0,0
+Colis,Sousse,Moins de 18 ans,Féminin,Post-universitaire,Fonctionnaire,4,4,5,1,4.333333333333333,1,0,1
+Passagers,Nabeul,18-24 ans,Féminin,Sans instruction,Commerçant,2,5,5,4,4.0,1,1,1
+Bureau,Bizerte,Moins de 18 ans,Féminin,Secondaire,Etudiant,3,1,4,4,2.6666666666666665,0,1,0
+Bureau,Sousse,45-54 ans,Masculin,Secondaire,Commerçant,4,5,5,3,4.666666666666667,1,0,1
+Bureau,Médenine,55 ans et plus,Féminin,Sans instruction,Salarié,1,2,4,9,2.3333333333333335,0,1,0
+Colis,Nabeul,Moins de 18 ans,Masculin,Secondaire,Commerçant,4,4,2,12,3.3333333333333335,0,0,0
+Colis,Gafsa,35-44 ans,Masculin,Universitaire,Retraité,3,2,1,10,2.0,0,1,0
+Colis,Bizerte,55 ans et plus,Masculin,Post-universitaire,Commerçant,3,4,2,2,3.0,0,0,0
+Abonnée,Tunis,Moins de 18 ans,Féminin,Post-universitaire,Sans emploi,1,4,1,11,2.0,0,1,0
+Passagers,Gabès,55 ans et plus,Féminin,Sans instruction,Etudiant,4,5,2,10,3.6666666666666665,1,0,1
+Colis,Gafsa,55 ans et plus,Féminin,Secondaire,Etudiant,4,2,1,6,2.3333333333333335,0,1,0
+Passagers,Sousse,55 ans et plus,Féminin,Primaire,Commerçant,1,2,1,18,1.3333333333333333,0,1,0
+Passagers,Monastir,45-54 ans,Féminin,Primaire,Etudiant,4,1,3,2,2.6666666666666665,0,1,0
+Bureau,Sfax,35-44 ans,Masculin,Secondaire,Sans emploi,1,2,1,2,1.3333333333333333,0,1,0
+Abonnée,Gabès,25-34 ans,Masculin,Primaire,Etudiant,2,1,1,10,1.3333333333333333,0,1,0
+Colis,Gafsa,25-34 ans,Masculin,Sans instruction,Commerçant,3,3,3,16,3.0,0,0,0
+Bureau,Monastir,Moins de 18 ans,Masculin,Sans instruction,Fonctionnaire,2,3,5,12,3.3333333333333335,0,1,0
+Bureau,Monastir,55 ans et plus,Féminin,Secondaire,Fonctionnaire,5,3,5,1,4.333333333333333,1,0,1
+Colis,Nabeul,Moins de 18 ans,Féminin,Primaire,Salarié,5,2,3,8,3.3333333333333335,0,0,0
+Passagers,Gafsa,45-54 ans,Masculin,Sans instruction,Etudiant,5,2,4,16,3.6666666666666665,1,0,0
+Bureau,Tunis,45-54 ans,Féminin,Sans instruction,Commerçant,1,1,1,18,1.0,0,1,0
+Passagers,Médenine,18-24 ans,Féminin,Universitaire,Etudiant,4,4,1,13,3.0,0,0,0
+Abonnée,Bizerte,45-54 ans,Masculin,Universitaire,Retraité,2,1,3,15,2.0,0,1,0
+Passagers,Bizerte,18-24 ans,Masculin,Sans instruction,Sans emploi,2,3,3,12,2.6666666666666665,0,1,0
+Abonnée,Sousse,35-44 ans,Féminin,Secondaire,Etudiant,2,1,4,8,2.3333333333333335,0,1,0
+Passagers,Sousse,Moins de 18 ans,Féminin,Post-universitaire,Etudiant,2,4,5,10,3.6666666666666665,1,1,1
+Bureau,Bizerte,35-44 ans,Masculin,Post-universitaire,Fonctionnaire,5,2,2,14,3.0,0,0,0
+Bureau,Tunis,45-54 ans,Masculin,Sans instruction,Sans emploi,2,1,5,5,2.6666666666666665,0,1,0
+Abonnée,Sfax,35-44 ans,Masculin,Sans instruction,Commerçant,4,3,1,18,2.6666666666666665,0,1,0
+Colis,Kairouan,35-44 ans,Féminin,Sans instruction,Etudiant,5,3,3,19,3.6666666666666665,1,0,1
+Abonnée,Médenine,35-44 ans,Masculin,Secondaire,Fonctionnaire,2,2,4,15,2.6666666666666665,0,1,0
+Abonnée,Sfax,45-54 ans,Masculin,Universitaire,Salarié,1,1,5,6,2.3333333333333335,0,1,0
+Passagers,Nabeul,55 ans et plus,Féminin,Sans instruction,Sans emploi,3,4,4,11,3.6666666666666665,1,0,1
+Passagers,Kairouan,35-44 ans,Féminin,Sans instruction,Fonctionnaire,3,2,5,11,3.3333333333333335,0,0,0
+Abonnée,Kairouan,18-24 ans,Féminin,Primaire,Fonctionnaire,3,1,1,18,1.6666666666666667,0,1,0
+Bureau,Gafsa,45-54 ans,Féminin,Secondaire,Fonctionnaire,5,5,2,18,4.0,1,0,1
+Passagers,Tunis,35-44 ans,Féminin,Sans instruction,Etudiant,2,3,4,10,3.0,0,1,0
+Colis,Tunis,55 ans et plus,Masculin,Primaire,Etudiant,5,4,4,2,4.333333333333333,1,0,1
+Passagers,Kairouan,45-54 ans,Masculin,Post-universitaire,Salarié,4,4,2,9,3.3333333333333335,0,0,0
+Passagers,Gafsa,25-34 ans,Féminin,Sans instruction,Retraité,1,4,4,14,3.0,0,1,0
+Colis,Médenine,55 ans et plus,Féminin,Sans instruction,Retraité,1,3,4,19,2.6666666666666665,0,1,0
+Abonnée,Kairouan,18-24 ans,Féminin,Primaire,Retraité,3,1,5,10,3.0,0,0,0
+Colis,Gabès,35-44 ans,Féminin,Secondaire,Sans emploi,3,2,5,4,3.3333333333333335,0,0,0
+Abonnée,Sousse,25-34 ans,Féminin,Sans instruction,Sans emploi,3,1,2,6,2.0,0,1,0
+Abonnée,Sousse,25-34 ans,Masculin,Post-universitaire,Salarié,2,2,1,14,1.6666666666666667,0,1,0
+Abonnée,Sfax,45-54 ans,Masculin,Sans instruction,Sans emploi,4,4,4,4,4.0,1,0,1
+Colis,Nabeul,25-34 ans,Masculin,Post-universitaire,Retraité,4,1,1,15,2.0,0,1,0
+Abonnée,Sousse,18-24 ans,Masculin,Universitaire,Retraité,4,4,2,16,3.3333333333333335,0,0,0
+Bureau,Monastir,18-24 ans,Féminin,Universitaire,Fonctionnaire,4,5,2,7,3.6666666666666665,1,0,1
+Colis,Sfax,Moins de 18 ans,Masculin,Post-universitaire,Sans emploi,3,4,5,17,4.0,1,0,1
+Bureau,Sousse,18-24 ans,Féminin,Secondaire,Etudiant,1,4,4,19,3.0,0,1,0
+Abonnée,Nabeul,55 ans et plus,Féminin,Sans instruction,Etudiant,3,2,3,19,2.6666666666666665,0,1,0
+Passagers,Tunis,25-34 ans,Féminin,Sans instruction,Fonctionnaire,4,5,2,17,3.6666666666666665,1,0,1
+Abonnée,Tunis,18-24 ans,Masculin,Universitaire,Fonctionnaire,3,4,4,6,3.6666666666666665,1,0,1
+Bureau,Médenine,45-54 ans,Féminin,Post-universitaire,Fonctionnaire,4,4,1,11,3.0,0,0,0
+Bureau,Kairouan,Moins de 18 ans,Masculin,Sans instruction,Etudiant,5,5,5,16,5.0,1,0,1
+Colis,Gabès,25-34 ans,Masculin,Sans instruction,Retraité,1,5,1,8,2.3333333333333335,0,1,0
+Passagers,Tunis,Moins de 18 ans,Féminin,Secondaire,Fonctionnaire,5,1,2,11,2.6666666666666665,0,1,0
+Colis,Gafsa,25-34 ans,Féminin,Primaire,Salarié,2,2,2,7,2.0,0,1,0
+Bureau,Sousse,45-54 ans,Féminin,Universitaire,Fonctionnaire,3,5,1,19,3.0,0,0,0
+Abonnée,Gafsa,Moins de 18 ans,Masculin,Universitaire,Commerçant,2,5,2,10,3.0,0,1,0
+Passagers,Nabeul,35-44 ans,Féminin,Primaire,Fonctionnaire,3,3,4,9,3.3333333333333335,0,0,0
+Abonnée,Tunis,55 ans et plus,Masculin,Sans instruction,Etudiant,5,5,2,4,4.0,1,0,1
+Abonnée,Gabès,55 ans et plus,Féminin,Secondaire,Sans emploi,4,2,5,15,3.6666666666666665,1,0,0
+Passagers,Nabeul,25-34 ans,Féminin,Secondaire,Fonctionnaire,4,4,4,13,4.0,1,0,1
+Colis,Monastir,35-44 ans,Masculin,Universitaire,Sans emploi,3,4,3,2,3.3333333333333335,0,0,0
+Abonnée,Monastir,Moins de 18 ans,Masculin,Secondaire,Commerçant,4,4,2,2,3.3333333333333335,0,0,0
+Bureau,Gafsa,35-44 ans,Masculin,Primaire,Salarié,5,4,2,16,3.6666666666666665,1,0,1
+Abonnée,Kairouan,35-44 ans,Masculin,Sans instruction,Sans emploi,4,3,5,9,4.0,1,0,1
+Passagers,Sfax,Moins de 18 ans,Masculin,Primaire,Retraité,5,5,5,13,5.0,1,0,1
+Passagers,Kairouan,45-54 ans,Masculin,Post-universitaire,Fonctionnaire,2,4,1,3,2.3333333333333335,0,1,0
+Passagers,Médenine,35-44 ans,Féminin,Universitaire,Commerçant,5,1,1,9,2.3333333333333335,0,1,0
+Colis,Kairouan,35-44 ans,Féminin,Secondaire,Commerçant,1,4,1,13,2.0,0,1,0
+Abonnée,Médenine,45-54 ans,Masculin,Post-universitaire,Sans emploi,1,5,5,2,3.6666666666666665,1,1,1
+Colis,Médenine,35-44 ans,Féminin,Secondaire,Salarié,1,4,1,8,2.0,0,1,0
+Colis,Gabès,35-44 ans,Masculin,Sans instruction,Etudiant,3,3,1,9,2.3333333333333335,0,1,0
+Passagers,Tunis,35-44 ans,Féminin,Sans instruction,Fonctionnaire,3,2,3,16,2.6666666666666665,0,1,0
+Passagers,Gabès,55 ans et plus,Féminin,Sans instruction,Commerçant,3,2,1,2,2.0,0,1,0
+Colis,Médenine,18-24 ans,Masculin,Secondaire,Salarié,5,5,2,6,4.0,1,0,1
+Abonnée,Nabeul,45-54 ans,Masculin,Post-universitaire,Retraité,3,2,5,8,3.3333333333333335,0,0,0
+Bureau,Monastir,35-44 ans,Masculin,Sans instruction,Commerçant,2,2,4,5,2.6666666666666665,0,1,0
+Colis,Médenine,55 ans et plus,Féminin,Post-universitaire,Salarié,1,1,3,9,1.6666666666666667,0,1,0
+Abonnée,Gabès,45-54 ans,Masculin,Secondaire,Etudiant,5,5,5,1,5.0,1,0,1
+Passagers,Nabeul,25-34 ans,Féminin,Post-universitaire,Etudiant,1,5,5,9,3.6666666666666665,1,1,1
+Passagers,Gabès,25-34 ans,Masculin,Secondaire,Commerçant,3,2,2,10,2.3333333333333335,0,1,0
+Abonnée,Kairouan,35-44 ans,Féminin,Secondaire,Commerçant,5,2,1,4,2.6666666666666665,0,1,0
+Bureau,Sousse,55 ans et plus,Féminin,Universitaire,Sans emploi,4,2,2,3,2.6666666666666665,0,1,0
+Passagers,Gafsa,55 ans et plus,Masculin,Secondaire,Fonctionnaire,2,3,1,10,2.0,0,1,0
+Passagers,Sfax,45-54 ans,Féminin,Secondaire,Salarié,3,4,1,15,2.6666666666666665,0,1,0
+Passagers,Gabès,45-54 ans,Féminin,Primaire,Commerçant,3,3,5,11,3.6666666666666665,1,0,1
+Abonnée,Sfax,55 ans et plus,Masculin,Sans instruction,Fonctionnaire,2,5,1,14,2.6666666666666665,0,1,0
+Colis,Bizerte,45-54 ans,Féminin,Universitaire,Sans emploi,2,1,3,6,2.0,0,1,0
+Passagers,Gabès,55 ans et plus,Masculin,Universitaire,Fonctionnaire,4,4,3,12,3.6666666666666665,1,0,1
+Colis,Sousse,18-24 ans,Masculin,Universitaire,Commerçant,3,1,3,13,2.3333333333333335,0,1,0
+Bureau,Sfax,55 ans et plus,Masculin,Primaire,Etudiant,3,5,5,17,4.333333333333333,1,0,1
+Passagers,Médenine,25-34 ans,Masculin,Secondaire,Salarié,1,5,2,16,2.6666666666666665,0,1,0
+Passagers,Gabès,45-54 ans,Féminin,Sans instruction,Salarié,5,1,4,3,3.3333333333333335,0,0,0
+Bureau,Tunis,55 ans et plus,Féminin,Post-universitaire,Etudiant,5,1,1,2,2.3333333333333335,0,1,0
+Passagers,Gafsa,55 ans et plus,Féminin,Secondaire,Commerçant,1,1,4,11,2.0,0,1,0
+Colis,Sousse,45-54 ans,Masculin,Primaire,Salarié,5,5,2,9,4.0,1,0,1
+Abonnée,Sfax,18-24 ans,Féminin,Secondaire,Commerçant,2,2,2,3,2.0,0,1,0
+Colis,Sousse,18-24 ans,Féminin,Secondaire,Sans emploi,5,1,5,18,3.6666666666666665,1,0,0
+Abonnée,Nabeul,45-54 ans,Masculin,Primaire,Commerçant,5,4,3,15,4.0,1,0,1
+Abonnée,Gafsa,Moins de 18 ans,Masculin,Universitaire,Fonctionnaire,1,5,3,14,3.0,0,1,0
+Colis,Médenine,45-54 ans,Féminin,Universitaire,Etudiant,4,3,2,2,3.0,0,0,0
+Colis,Gabès,45-54 ans,Masculin,Sans instruction,Commerçant,5,3,5,17,4.333333333333333,1,0,1
+Colis,Gabès,18-24 ans,Masculin,Sans instruction,Sans emploi,5,4,5,8,4.666666666666667,1,0,1
+Colis,Gabès,18-24 ans,Masculin,Universitaire,Retraité,4,2,1,10,2.3333333333333335,0,1,0
+Bureau,Gafsa,45-54 ans,Masculin,Post-universitaire,Etudiant,1,1,3,18,1.6666666666666667,0,1,0
+Passagers,Tunis,45-54 ans,Féminin,Secondaire,Salarié,4,5,2,19,3.6666666666666665,1,0,1
+Abonnée,Bizerte,45-54 ans,Masculin,Post-universitaire,Fonctionnaire,1,1,4,8,2.0,0,1,0
+Colis,Monastir,18-24 ans,Masculin,Secondaire,Salarié,2,5,3,8,3.3333333333333335,0,1,0
+Colis,Kairouan,45-54 ans,Masculin,Universitaire,Sans emploi,1,3,1,3,1.6666666666666667,0,1,0
+Colis,Sfax,45-54 ans,Masculin,Sans instruction,Sans emploi,2,1,5,3,2.6666666666666665,0,1,0
+Bureau,Tunis,35-44 ans,Masculin,Sans instruction,Salarié,2,4,2,12,2.6666666666666665,0,1,0
+Colis,Médenine,Moins de 18 ans,Masculin,Post-universitaire,Etudiant,1,2,3,17,2.0,0,1,0
+Colis,Sfax,25-34 ans,Masculin,Sans instruction,Salarié,3,4,4,4,3.6666666666666665,1,0,1
+Colis,Gabès,Moins de 18 ans,Masculin,Universitaire,Commerçant,1,2,1,17,1.3333333333333333,0,1,0
+Passagers,Sousse,35-44 ans,Féminin,Post-universitaire,Salarié,5,1,1,14,2.3333333333333335,0,1,0
+Bureau,Médenine,25-34 ans,Masculin,Secondaire,Fonctionnaire,5,1,3,19,3.0,0,0,0
+Colis,Sfax,45-54 ans,Féminin,Sans instruction,Fonctionnaire,3,2,4,9,3.0,0,0,0
+Abonnée,Gabès,35-44 ans,Masculin,Primaire,Retraité,2,3,1,12,2.0,0,1,0
+Abonnée,Sfax,45-54 ans,Masculin,Sans instruction,Fonctionnaire,3,5,2,5,3.3333333333333335,0,0,0
+Abonnée,Sousse,18-24 ans,Masculin,Secondaire,Salarié,5,4,1,11,3.3333333333333335,0,0,0
+Bureau,Gabès,55 ans et plus,Masculin,Post-universitaire,Fonctionnaire,3,4,4,3,3.6666666666666665,1,0,1
+Bureau,Bizerte,35-44 ans,Féminin,Secondaire,Etudiant,1,4,5,15,3.3333333333333335,0,1,0
+Abonnée,Tunis,18-24 ans,Masculin,Primaire,Fonctionnaire,3,1,5,14,3.0,0,0,0
+Colis,Nabeul,35-44 ans,Masculin,Universitaire,Commerçant,2,4,3,11,3.0,0,1,0
+Bureau,Kairouan,35-44 ans,Féminin,Sans instruction,Etudiant,1,5,4,8,3.3333333333333335,0,1,0
+Abonnée,Gafsa,18-24 ans,Féminin,Post-universitaire,Retraité,4,5,1,4,3.3333333333333335,0,0,0
+Abonnée,Kairouan,25-34 ans,Masculin,Universitaire,Commerçant,5,2,1,12,2.6666666666666665,0,1,0
+Colis,Médenine,Moins de 18 ans,Féminin,Secondaire,Salarié,5,1,5,8,3.6666666666666665,1,0,0
+Passagers,Kairouan,45-54 ans,Féminin,Post-universitaire,Salarié,3,5,5,6,4.333333333333333,1,0,1
+Bureau,Gabès,35-44 ans,Féminin,Universitaire,Salarié,1,3,2,15,2.0,0,1,0
+Colis,Bizerte,45-54 ans,Masculin,Post-universitaire,Commerçant,4,1,5,12,3.3333333333333335,0,0,0
+Abonnée,Nabeul,55 ans et plus,Masculin,Primaire,Commerçant,1,1,2,16,1.3333333333333333,0,1,0
+Abonnée,Tunis,18-24 ans,Masculin,Primaire,Commerçant,5,5,1,16,3.6666666666666665,1,0,1
+Colis,Tunis,45-54 ans,Féminin,Sans instruction,Etudiant,1,3,2,4,2.0,0,1,0
+Bureau,Sousse,18-24 ans,Masculin,Sans instruction,Sans emploi,4,2,2,11,2.6666666666666665,0,1,0
+Passagers,Gafsa,45-54 ans,Féminin,Primaire,Etudiant,3,5,3,13,3.6666666666666665,1,0,1
+Passagers,Sfax,Moins de 18 ans,Masculin,Post-universitaire,Salarié,2,3,5,9,3.3333333333333335,0,1,0
+Abonnée,Bizerte,Moins de 18 ans,Masculin,Primaire,Sans emploi,1,1,2,4,1.3333333333333333,0,1,0
+Bureau,Sfax,Moins de 18 ans,Féminin,Sans instruction,Fonctionnaire,2,3,1,12,2.0,0,1,0
+Passagers,Nabeul,Moins de 18 ans,Masculin,Primaire,Salarié,5,1,4,9,3.3333333333333335,0,0,0
+Bureau,Kairouan,Moins de 18 ans,Féminin,Primaire,Retraité,3,5,2,13,3.3333333333333335,0,0,0
+Bureau,Tunis,Moins de 18 ans,Féminin,Post-universitaire,Etudiant,3,5,5,16,4.333333333333333,1,0,1
+Abonnée,Nabeul,18-24 ans,Masculin,Universitaire,Commerçant,1,4,3,6,2.6666666666666665,0,1,0
+Passagers,Kairouan,35-44 ans,Féminin,Sans instruction,Etudiant,3,4,1,10,2.6666666666666665,0,1,0
+Colis,Tunis,45-54 ans,Masculin,Post-universitaire,Commerçant,1,4,3,13,2.6666666666666665,0,1,0
+Abonnée,Kairouan,Moins de 18 ans,Masculin,Primaire,Sans emploi,1,5,4,7,3.3333333333333335,0,1,0
+Passagers,Gafsa,18-24 ans,Féminin,Primaire,Retraité,2,2,2,19,2.0,0,1,0
+Passagers,Bizerte,18-24 ans,Masculin,Universitaire,Sans emploi,3,5,2,19,3.3333333333333335,0,0,0
+Passagers,Médenine,18-24 ans,Féminin,Sans instruction,Retraité,1,3,5,17,3.0,0,1,0
+Passagers,Nabeul,35-44 ans,Masculin,Sans instruction,Etudiant,2,5,2,13,3.0,0,1,0
+Passagers,Nabeul,45-54 ans,Masculin,Secondaire,Commerçant,4,5,1,13,3.3333333333333335,0,0,0
+Bureau,Monastir,35-44 ans,Masculin,Sans instruction,Sans emploi,2,1,4,2,2.3333333333333335,0,1,0
+Abonnée,Gabès,25-34 ans,Masculin,Universitaire,Retraité,2,1,3,10,2.0,0,1,0
+Bureau,Gafsa,18-24 ans,Masculin,Secondaire,Salarié,1,1,4,13,2.0,0,1,0
+Colis,Gafsa,25-34 ans,Féminin,Secondaire,Salarié,5,5,2,9,4.0,1,0,1
+Passagers,Sfax,55 ans et plus,Féminin,Primaire,Sans emploi,5,2,3,1,3.3333333333333335,0,0,0
+Abonnée,Kairouan,Moins de 18 ans,Féminin,Primaire,Commerçant,5,3,5,14,4.333333333333333,1,0,1
+Passagers,Gabès,Moins de 18 ans,Féminin,Sans instruction,Sans emploi,2,3,4,16,3.0,0,1,0
+Abonnée,Bizerte,35-44 ans,Féminin,Secondaire,Etudiant,1,2,3,15,2.0,0,1,0
+Bureau,Bizerte,45-54 ans,Féminin,Primaire,Retraité,3,2,3,1,2.6666666666666665,0,1,0
+Abonnée,Gafsa,25-34 ans,Masculin,Universitaire,Etudiant,2,3,3,17,2.6666666666666665,0,1,0
+Colis,Bizerte,45-54 ans,Masculin,Primaire,Salarié,2,4,1,13,2.3333333333333335,0,1,0
+Colis,Monastir,35-44 ans,Féminin,Primaire,Retraité,1,1,4,15,2.0,0,1,0
+Abonnée,Nabeul,Moins de 18 ans,Féminin,Secondaire,Sans emploi,4,1,3,16,2.6666666666666665,0,1,0
+Abonnée,Sousse,45-54 ans,Masculin,Secondaire,Etudiant,2,3,4,16,3.0,0,1,0
+Abonnée,Médenine,45-54 ans,Masculin,Post-universitaire,Fonctionnaire,4,2,3,2,3.0,0,0,0
+Abonnée,Sfax,Moins de 18 ans,Masculin,Universitaire,Commerçant,4,4,5,17,4.333333333333333,1,0,1
+Colis,Kairouan,25-34 ans,Féminin,Secondaire,Commerçant,5,3,5,11,4.333333333333333,1,0,1
+Passagers,Médenine,Moins de 18 ans,Féminin,Sans instruction,Fonctionnaire,1,1,5,8,2.3333333333333335,0,1,0
+Abonnée,Kairouan,45-54 ans,Féminin,Universitaire,Salarié,4,5,2,3,3.6666666666666665,1,0,1
+Abonnée,Tunis,25-34 ans,Masculin,Universitaire,Retraité,1,2,3,12,2.0,0,1,0
+Colis,Médenine,25-34 ans,Masculin,Secondaire,Commerçant,5,5,2,16,4.0,1,0,1
+Colis,Sousse,Moins de 18 ans,Féminin,Universitaire,Fonctionnaire,1,3,4,14,2.6666666666666665,0,1,0
+Bureau,Gafsa,45-54 ans,Féminin,Secondaire,Sans emploi,2,1,2,16,1.6666666666666667,0,1,0
+Abonnée,Monastir,35-44 ans,Masculin,Primaire,Fonctionnaire,4,4,4,17,4.0,1,0,1
+Bureau,Nabeul,45-54 ans,Masculin,Post-universitaire,Salarié,1,5,4,11,3.3333333333333335,0,1,0
+Colis,Nabeul,18-24 ans,Masculin,Primaire,Salarié,3,4,4,17,3.6666666666666665,1,0,1
+Colis,Monastir,55 ans et plus,Masculin,Secondaire,Etudiant,1,1,2,19,1.3333333333333333,0,1,0
+Passagers,Gabès,35-44 ans,Féminin,Secondaire,Commerçant,4,5,3,1,4.0,1,0,1
+Abonnée,Tunis,25-34 ans,Masculin,Primaire,Etudiant,5,4,2,12,3.6666666666666665,1,0,1
+Bureau,Kairouan,35-44 ans,Masculin,Sans instruction,Fonctionnaire,5,4,3,15,4.0,1,0,1
+Colis,Sousse,25-34 ans,Masculin,Sans instruction,Retraité,4,5,3,18,4.0,1,0,1
+Colis,Bizerte,25-34 ans,Féminin,Sans instruction,Retraité,2,1,4,14,2.3333333333333335,0,1,0
+Bureau,Médenine,35-44 ans,Féminin,Secondaire,Salarié,2,4,2,1,2.6666666666666665,0,1,0
+Passagers,Tunis,25-34 ans,Masculin,Universitaire,Retraité,5,3,3,13,3.6666666666666665,1,0,1
+Colis,Médenine,25-34 ans,Masculin,Secondaire,Retraité,5,5,5,15,5.0,1,0,1
+Abonnée,Sousse,18-24 ans,Masculin,Universitaire,Retraité,4,2,3,7,3.0,0,0,0
+Colis,Sfax,45-54 ans,Féminin,Primaire,Fonctionnaire,2,2,5,15,3.0,0,1,0
+Abonnée,Sfax,45-54 ans,Féminin,Post-universitaire,Retraité,5,1,2,10,2.6666666666666665,0,1,0
+Bureau,Tunis,55 ans et plus,Féminin,Universitaire,Sans emploi,2,3,2,14,2.3333333333333335,0,1,0
+Abonnée,Gafsa,55 ans et plus,Masculin,Sans instruction,Retraité,5,4,2,6,3.6666666666666665,1,0,1
+Bureau,Sousse,18-24 ans,Féminin,Secondaire,Retraité,1,2,3,14,2.0,0,1,0
+Abonnée,Sousse,55 ans et plus,Masculin,Primaire,Etudiant,3,1,1,12,1.6666666666666667,0,1,0
+Bureau,Monastir,35-44 ans,Masculin,Sans instruction,Fonctionnaire,1,3,3,11,2.3333333333333335,0,1,0
+Abonnée,Gafsa,Moins de 18 ans,Masculin,Primaire,Salarié,5,3,3,19,3.6666666666666665,1,0,1
+Passagers,Kairouan,Moins de 18 ans,Féminin,Post-universitaire,Etudiant,3,1,4,2,2.6666666666666665,0,1,0
+Abonnée,Kairouan,Moins de 18 ans,Masculin,Secondaire,Commerçant,3,1,4,1,2.6666666666666665,0,1,0
+Abonnée,Bizerte,18-24 ans,Féminin,Secondaire,Fonctionnaire,5,4,3,8,4.0,1,0,1
+Passagers,Nabeul,18-24 ans,Féminin,Post-universitaire,Sans emploi,5,1,5,14,3.6666666666666665,1,0,0
+Colis,Sfax,25-34 ans,Masculin,Secondaire,Fonctionnaire,2,4,4,9,3.3333333333333335,0,1,0
+Colis,Kairouan,Moins de 18 ans,Masculin,Universitaire,Commerçant,5,4,3,2,4.0,1,0,1
+Abonnée,Gafsa,35-44 ans,Féminin,Primaire,Commerçant,4,5,1,5,3.3333333333333335,0,0,0
+Passagers,Sousse,55 ans et plus,Masculin,Sans instruction,Commerçant,5,3,5,8,4.333333333333333,1,0,1
+Abonnée,Kairouan,35-44 ans,Féminin,Post-universitaire,Salarié,4,3,2,16,3.0,0,0,0
+Bureau,Sousse,55 ans et plus,Masculin,Universitaire,Retraité,5,3,3,16,3.6666666666666665,1,0,1
+Bureau,Kairouan,Moins de 18 ans,Féminin,Sans instruction,Fonctionnaire,2,5,3,13,3.3333333333333335,0,1,0
+Abonnée,Sfax,Moins de 18 ans,Féminin,Sans instruction,Retraité,4,4,5,15,4.333333333333333,1,0,1
+Colis,Médenine,Moins de 18 ans,Féminin,Post-universitaire,Retraité,1,4,4,1,3.0,0,1,0
+Colis,Kairouan,18-24 ans,Féminin,Universitaire,Sans emploi,4,1,4,3,3.0,0,0,0
+Abonnée,Gafsa,55 ans et plus,Masculin,Sans instruction,Commerçant,2,5,4,6,3.6666666666666665,1,1,1
+Abonnée,Kairouan,18-24 ans,Masculin,Sans instruction,Salarié,4,1,2,14,2.3333333333333335,0,1,0
+Bureau,Nabeul,18-24 ans,Féminin,Universitaire,Sans emploi,5,5,5,4,5.0,1,0,1
+Colis,Sfax,45-54 ans,Féminin,Secondaire,Etudiant,5,1,5,18,3.6666666666666665,1,0,0
+Abonnée,Gafsa,35-44 ans,Masculin,Sans instruction,Salarié,2,2,4,15,2.6666666666666665,0,1,0
+Bureau,Monastir,35-44 ans,Masculin,Primaire,Retraité,3,3,4,9,3.3333333333333335,0,0,0
+Colis,Gafsa,25-34 ans,Masculin,Universitaire,Salarié,5,3,1,18,3.0,0,0,0
+Passagers,Nabeul,18-24 ans,Masculin,Sans instruction,Commerçant,1,4,1,3,2.0,0,1,0
+Bureau,Médenine,55 ans et plus,Masculin,Post-universitaire,Etudiant,2,2,3,10,2.3333333333333335,0,1,0
+Colis,Sfax,45-54 ans,Masculin,Primaire,Commerçant,4,3,3,17,3.3333333333333335,0,0,0
+Colis,Monastir,45-54 ans,Féminin,Sans instruction,Etudiant,4,4,5,7,4.333333333333333,1,0,1
+Bureau,Nabeul,35-44 ans,Masculin,Primaire,Sans emploi,1,2,5,15,2.6666666666666665,0,1,0
+Passagers,Nabeul,18-24 ans,Masculin,Primaire,Retraité,5,3,2,1,3.3333333333333335,0,0,0
+Bureau,Tunis,25-34 ans,Féminin,Secondaire,Etudiant,2,1,2,11,1.6666666666666667,0,1,0
+Colis,Sfax,18-24 ans,Masculin,Primaire,Etudiant,1,5,1,17,2.3333333333333335,0,1,0
+Abonnée,Gafsa,Moins de 18 ans,Masculin,Secondaire,Etudiant,5,2,3,5,3.3333333333333335,0,0,0
+Abonnée,Sousse,18-24 ans,Masculin,Universitaire,Salarié,2,4,1,7,2.3333333333333335,0,1,0
+Bureau,Médenine,Moins de 18 ans,Masculin,Secondaire,Sans emploi,4,2,1,19,2.3333333333333335,0,1,0
+Colis,Sousse,Moins de 18 ans,Masculin,Post-universitaire,Salarié,2,4,3,15,3.0,0,1,0
+Abonnée,Gafsa,25-34 ans,Féminin,Sans instruction,Retraité,3,2,2,3,2.3333333333333335,0,1,0
+Colis,Gafsa,55 ans et plus,Masculin,Universitaire,Etudiant,2,4,3,15,3.0,0,1,0
+Bureau,Sfax,35-44 ans,Féminin,Universitaire,Sans emploi,3,3,4,5,3.3333333333333335,0,0,0
+Abonnée,Gafsa,18-24 ans,Féminin,Post-universitaire,Sans emploi,2,1,4,12,2.3333333333333335,0,1,0
+Colis,Tunis,Moins de 18 ans,Masculin,Secondaire,Fonctionnaire,3,3,4,5,3.3333333333333335,0,0,0
+Abonnée,Monastir,18-24 ans,Féminin,Sans instruction,Retraité,4,1,5,3,3.3333333333333335,0,0,0
+Bureau,Gafsa,55 ans et plus,Masculin,Secondaire,Sans emploi,5,3,2,9,3.3333333333333335,0,0,0
+Colis,Sousse,35-44 ans,Féminin,Primaire,Etudiant,3,3,2,9,2.6666666666666665,0,1,0
+Abonnée,Gafsa,55 ans et plus,Féminin,Secondaire,Etudiant,3,2,5,7,3.3333333333333335,0,0,0
+Bureau,Tunis,35-44 ans,Masculin,Universitaire,Sans emploi,4,5,1,2,3.3333333333333335,0,0,0
+Abonnée,Kairouan,45-54 ans,Masculin,Sans instruction,Salarié,3,4,4,16,3.6666666666666665,1,0,1
+Abonnée,Kairouan,35-44 ans,Masculin,Secondaire,Retraité,1,4,4,9,3.0,0,1,0
+Passagers,Nabeul,25-34 ans,Masculin,Sans instruction,Etudiant,4,4,1,13,3.0,0,0,0
+Passagers,Médenine,55 ans et plus,Masculin,Sans instruction,Sans emploi,1,1,3,19,1.6666666666666667,0,1,0
+Bureau,Bizerte,Moins de 18 ans,Féminin,Primaire,Etudiant,4,4,3,17,3.6666666666666665,1,0,1
+Passagers,Monastir,45-54 ans,Féminin,Primaire,Sans emploi,3,4,2,6,3.0,0,0,0
+Bureau,Gabès,25-34 ans,Féminin,Universitaire,Retraité,1,2,5,4,2.6666666666666665,0,1,0
+Passagers,Nabeul,18-24 ans,Féminin,Post-universitaire,Sans emploi,3,3,2,1,2.6666666666666665,0,1,0
+Abonnée,Médenine,55 ans et plus,Féminin,Sans instruction,Fonctionnaire,4,4,3,18,3.6666666666666665,1,0,1
+Bureau,Kairouan,Moins de 18 ans,Féminin,Post-universitaire,Sans emploi,3,5,1,19,3.0,0,0,0
+Bureau,Sousse,35-44 ans,Féminin,Universitaire,Sans emploi,1,4,2,9,2.3333333333333335,0,1,0
+Abonnée,Gabès,Moins de 18 ans,Masculin,Sans instruction,Retraité,1,1,4,13,2.0,0,1,0
+Bureau,Médenine,18-24 ans,Masculin,Sans instruction,Sans emploi,3,1,4,8,2.6666666666666665,0,1,0
+Bureau,Médenine,45-54 ans,Féminin,Post-universitaire,Retraité,2,1,1,13,1.3333333333333333,0,1,0
+Passagers,Nabeul,45-54 ans,Féminin,Secondaire,Fonctionnaire,4,4,3,15,3.6666666666666665,1,0,1
+Bureau,Gabès,55 ans et plus,Masculin,Primaire,Retraité,4,2,4,11,3.3333333333333335,0,0,0
+Colis,Sfax,45-54 ans,Masculin,Secondaire,Etudiant,3,5,4,12,4.0,1,0,1
+Abonnée,Bizerte,55 ans et plus,Masculin,Post-universitaire,Retraité,2,4,5,14,3.6666666666666665,1,1,1
+Passagers,Sfax,55 ans et plus,Masculin,Primaire,Fonctionnaire,1,2,2,4,1.6666666666666667,0,1,0
+Passagers,Gabès,55 ans et plus,Féminin,Secondaire,Commerçant,5,2,3,1,3.3333333333333335,0,0,0
+Colis,Sfax,35-44 ans,Masculin,Primaire,Sans emploi,5,4,2,4,3.6666666666666665,1,0,1
+Abonnée,Tunis,25-34 ans,Féminin,Sans instruction,Retraité,3,4,3,19,3.3333333333333335,0,0,0
+Abonnée,Kairouan,55 ans et plus,Féminin,Secondaire,Sans emploi,2,2,4,9,2.6666666666666665,0,1,0
+Passagers,Tunis,55 ans et plus,Féminin,Primaire,Salarié,2,2,5,10,3.0,0,1,0
+Bureau,Gafsa,25-34 ans,Masculin,Primaire,Etudiant,4,2,2,4,2.6666666666666665,0,1,0
+Passagers,Sfax,Moins de 18 ans,Masculin,Primaire,Etudiant,1,4,4,9,3.0,0,1,0
+Abonnée,Gafsa,55 ans et plus,Féminin,Secondaire,Salarié,2,2,3,13,2.3333333333333335,0,1,0
+Colis,Sousse,35-44 ans,Féminin,Universitaire,Salarié,5,1,2,12,2.6666666666666665,0,1,0
+Passagers,Monastir,45-54 ans,Féminin,Secondaire,Retraité,1,4,2,11,2.3333333333333335,0,1,0
+Abonnée,Sousse,45-54 ans,Masculin,Post-universitaire,Salarié,1,1,4,12,2.0,0,1,0
+Passagers,Gabès,18-24 ans,Féminin,Secondaire,Commerçant,3,3,2,18,2.6666666666666665,0,1,0
+Bureau,Médenine,18-24 ans,Masculin,Primaire,Sans emploi,2,4,5,12,3.6666666666666665,1,1,1
+Passagers,Kairouan,45-54 ans,Féminin,Sans instruction,Sans emploi,3,3,5,16,3.6666666666666665,1,0,1
+Passagers,Sfax,45-54 ans,Féminin,Secondaire,Fonctionnaire,2,2,4,5,2.6666666666666665,0,1,0
+Abonnée,Nabeul,35-44 ans,Féminin,Secondaire,Salarié,4,2,3,12,3.0,0,0,0
+Abonnée,Monastir,25-34 ans,Masculin,Primaire,Salarié,3,5,4,11,4.0,1,0,1
+Abonnée,Bizerte,18-24 ans,Masculin,Sans instruction,Commerçant,3,2,5,9,3.3333333333333335,0,0,0
+Passagers,Bizerte,25-34 ans,Féminin,Sans instruction,Etudiant,5,3,1,18,3.0,0,0,0
+Bureau,Bizerte,35-44 ans,Masculin,Post-universitaire,Etudiant,3,2,1,3,2.0,0,1,0
+Colis,Sfax,45-54 ans,Féminin,Secondaire,Sans emploi,2,4,2,17,2.6666666666666665,0,1,0
+Colis,Bizerte,55 ans et plus,Masculin,Sans instruction,Sans emploi,5,2,2,14,3.0,0,0,0
+Abonnée,Tunis,25-34 ans,Masculin,Sans instruction,Retraité,3,5,1,1,3.0,0,0,0
+Abonnée,Monastir,45-54 ans,Masculin,Universitaire,Commerçant,3,2,5,17,3.3333333333333335,0,0,0
+Passagers,Tunis,45-54 ans,Féminin,Universitaire,Fonctionnaire,4,3,2,8,3.0,0,0,0
+Colis,Médenine,Moins de 18 ans,Masculin,Sans instruction,Fonctionnaire,3,3,4,5,3.3333333333333335,0,0,0
+Abonnée,Monastir,25-34 ans,Masculin,Post-universitaire,Commerçant,1,2,4,5,2.3333333333333335,0,1,0
+Bureau,Tunis,55 ans et plus,Féminin,Sans instruction,Fonctionnaire,5,3,5,9,4.333333333333333,1,0,1
+Bureau,Monastir,25-34 ans,Féminin,Primaire,Etudiant,1,3,2,3,2.0,0,1,0
+Abonnée,Médenine,45-54 ans,Féminin,Secondaire,Fonctionnaire,5,5,4,19,4.666666666666667,1,0,1
+Abonnée,Gafsa,55 ans et plus,Féminin,Post-universitaire,Fonctionnaire,4,4,2,9,3.3333333333333335,0,0,0
+Colis,Sfax,35-44 ans,Masculin,Primaire,Commerçant,3,5,2,18,3.3333333333333335,0,0,0
+Colis,Sfax,Moins de 18 ans,Masculin,Post-universitaire,Commerçant,3,1,4,16,2.6666666666666665,0,1,0
+Passagers,Bizerte,45-54 ans,Masculin,Primaire,Fonctionnaire,3,5,1,1,3.0,0,0,0
+Colis,Sousse,18-24 ans,Masculin,Secondaire,Salarié,5,2,4,2,3.6666666666666665,1,0,0
+Bureau,Bizerte,18-24 ans,Masculin,Secondaire,Commerçant,3,4,5,14,4.0,1,0,1
+Bureau,Gabès,Moins de 18 ans,Féminin,Universitaire,Retraité,1,2,3,14,2.0,0,1,0
+Abonnée,Tunis,35-44 ans,Masculin,Primaire,Retraité,3,1,4,1,2.6666666666666665,0,1,0
+Colis,Monastir,45-54 ans,Masculin,Universitaire,Etudiant,4,4,2,16,3.3333333333333335,0,0,0
+Passagers,Sousse,25-34 ans,Masculin,Primaire,Fonctionnaire,1,3,2,15,2.0,0,1,0
+Bureau,Médenine,Moins de 18 ans,Féminin,Universitaire,Salarié,3,5,4,15,4.0,1,0,1
+Bureau,Gabès,35-44 ans,Féminin,Secondaire,Etudiant,3,2,3,12,2.6666666666666665,0,1,0
+Passagers,Médenine,25-34 ans,Masculin,Post-universitaire,Fonctionnaire,2,1,4,16,2.3333333333333335,0,1,0
+Passagers,Sfax,18-24 ans,Féminin,Universitaire,Commerçant,5,3,3,14,3.6666666666666665,1,0,1
+Bureau,Sfax,18-24 ans,Féminin,Primaire,Retraité,1,5,3,15,3.0,0,1,0
+Bureau,Bizerte,25-34 ans,Féminin,Primaire,Sans emploi,2,3,5,15,3.3333333333333335,0,1,0
+Passagers,Tunis,Moins de 18 ans,Féminin,Secondaire,Salarié,4,5,2,19,3.6666666666666665,1,0,1
+Bureau,Sousse,18-24 ans,Féminin,Primaire,Sans emploi,5,4,2,8,3.6666666666666665,1,0,1
+Abonnée,Kairouan,45-54 ans,Féminin,Sans instruction,Retraité,1,3,3,2,2.3333333333333335,0,1,0
+Abonnée,Gabès,55 ans et plus,Féminin,Post-universitaire,Sans emploi,3,3,2,2,2.6666666666666665,0,1,0
+Passagers,Gabès,25-34 ans,Masculin,Universitaire,Commerçant,1,3,1,10,1.6666666666666667,0,1,0
+Colis,Bizerte,25-34 ans,Masculin,Post-universitaire,Fonctionnaire,3,4,3,3,3.3333333333333335,0,0,0
+Passagers,Sfax,18-24 ans,Féminin,Secondaire,Commerçant,5,1,2,17,2.6666666666666665,0,1,0
+Passagers,Bizerte,Moins de 18 ans,Masculin,Universitaire,Sans emploi,3,5,1,8,3.0,0,0,0
+Colis,Monastir,45-54 ans,Masculin,Universitaire,Commerçant,4,3,5,4,4.0,1,0,1
+Colis,Sousse,Moins de 18 ans,Féminin,Sans instruction,Retraité,3,4,2,14,3.0,0,0,0
+Colis,Tunis,35-44 ans,Masculin,Secondaire,Salarié,4,1,1,10,2.0,0,1,0
+Abonnée,Gafsa,35-44 ans,Féminin,Primaire,Commerçant,5,5,4,1,4.666666666666667,1,0,1
+Bureau,Nabeul,55 ans et plus,Féminin,Sans instruction,Retraité,5,4,4,4,4.333333333333333,1,0,1
+Abonnée,Nabeul,18-24 ans,Féminin,Sans instruction,Salarié,1,5,1,1,2.3333333333333335,0,1,0
+Bureau,Bizerte,18-24 ans,Masculin,Post-universitaire,Fonctionnaire,4,3,3,17,3.3333333333333335,0,0,0
+Abonnée,Monastir,18-24 ans,Masculin,Post-universitaire,Sans emploi,4,1,3,17,2.6666666666666665,0,1,0
+Bureau,Sousse,55 ans et plus,Masculin,Post-universitaire,Fonctionnaire,2,4,2,7,2.6666666666666665,0,1,0
+Abonnée,Kairouan,35-44 ans,Masculin,Sans instruction,Etudiant,2,1,4,15,2.3333333333333335,0,1,0
+Colis,Nabeul,Moins de 18 ans,Féminin,Primaire,Retraité,2,3,3,13,2.6666666666666665,0,1,0
+Passagers,Sousse,55 ans et plus,Féminin,Universitaire,Salarié,3,1,3,2,2.3333333333333335,0,1,0
+Abonnée,Tunis,55 ans et plus,Masculin,Post-universitaire,Commerçant,2,1,4,19,2.3333333333333335,0,1,0
+Bureau,Médenine,Moins de 18 ans,Féminin,Primaire,Fonctionnaire,4,2,5,13,3.6666666666666665,1,0,0
+Colis,Monastir,18-24 ans,Féminin,Secondaire,Salarié,3,1,3,11,2.3333333333333335,0,1,0
+Abonnée,Sfax,45-54 ans,Masculin,Post-universitaire,Retraité,5,5,1,15,3.6666666666666665,1,0,1
+Abonnée,Sousse,Moins de 18 ans,Féminin,Universitaire,Etudiant,1,4,2,10,2.3333333333333335,0,1,0
+Colis,Tunis,35-44 ans,Masculin,Secondaire,Fonctionnaire,2,2,3,9,2.3333333333333335,0,1,0
+Abonnée,Kairouan,25-34 ans,Féminin,Secondaire,Sans emploi,5,4,3,9,4.0,1,0,1
+Passagers,Gafsa,25-34 ans,Masculin,Universitaire,Salarié,4,4,5,1,4.333333333333333,1,0,1
+Abonnée,Sfax,55 ans et plus,Féminin,Post-universitaire,Sans emploi,1,3,1,17,1.6666666666666667,0,1,0
+Passagers,Gafsa,25-34 ans,Féminin,Sans instruction,Salarié,5,3,2,12,3.3333333333333335,0,0,0
+Passagers,Kairouan,45-54 ans,Masculin,Universitaire,Salarié,1,2,3,10,2.0,0,1,0
+Colis,Tunis,18-24 ans,Masculin,Universitaire,Retraité,2,3,2,5,2.3333333333333335,0,1,0
+Abonnée,Nabeul,35-44 ans,Masculin,Universitaire,Retraité,4,3,4,18,3.6666666666666665,1,0,1
+Colis,Gafsa,45-54 ans,Masculin,Secondaire,Retraité,1,3,3,15,2.3333333333333335,0,1,0
+Abonnée,Sfax,35-44 ans,Féminin,Primaire,Commerçant,5,4,3,6,4.0,1,0,1
+Abonnée,Bizerte,35-44 ans,Féminin,Sans instruction,Salarié,2,2,4,7,2.6666666666666665,0,1,0
+Bureau,Gabès,18-24 ans,Masculin,Post-universitaire,Fonctionnaire,2,4,5,17,3.6666666666666665,1,1,1
+Abonnée,Sousse,55 ans et plus,Féminin,Post-universitaire,Sans emploi,5,5,3,6,4.333333333333333,1,0,1
+Colis,Nabeul,25-34 ans,Masculin,Primaire,Retraité,5,4,2,8,3.6666666666666665,1,0,1
+Passagers,Gafsa,18-24 ans,Masculin,Universitaire,Retraité,1,5,1,12,2.3333333333333335,0,1,0
+Abonnée,Médenine,45-54 ans,Féminin,Sans instruction,Sans emploi,3,1,2,14,2.0,0,1,0
+Bureau,Sousse,55 ans et plus,Féminin,Post-universitaire,Sans emploi,2,1,5,12,2.6666666666666665,0,1,0
+Colis,Bizerte,45-54 ans,Masculin,Post-universitaire,Salarié,1,5,1,10,2.3333333333333335,0,1,0
+Abonnée,Kairouan,55 ans et plus,Masculin,Universitaire,Retraité,5,5,2,15,4.0,1,0,1
+Colis,Gabès,45-54 ans,Masculin,Primaire,Sans emploi,1,4,2,7,2.3333333333333335,0,1,0
+Bureau,Tunis,18-24 ans,Féminin,Sans instruction,Commerçant,5,5,4,9,4.666666666666667,1,0,1
+Bureau,Bizerte,55 ans et plus,Féminin,Primaire,Commerçant,4,2,5,10,3.6666666666666665,1,0,0
+Colis,Bizerte,55 ans et plus,Féminin,Primaire,Retraité,5,1,4,10,3.3333333333333335,0,0,0
+Abonnée,Kairouan,35-44 ans,Féminin,Sans instruction,Sans emploi,5,1,1,16,2.3333333333333335,0,1,0
+Passagers,Monastir,35-44 ans,Masculin,Sans instruction,Salarié,5,5,4,7,4.666666666666667,1,0,1
+Bureau,Kairouan,Moins de 18 ans,Masculin,Post-universitaire,Salarié,3,3,5,5,3.6666666666666665,1,0,1
+Abonnée,Monastir,45-54 ans,Masculin,Post-universitaire,Salarié,5,3,3,3,3.6666666666666665,1,0,1
+Abonnée,Monastir,35-44 ans,Masculin,Sans instruction,Etudiant,2,5,3,18,3.3333333333333335,0,1,0
+Passagers,Nabeul,Moins de 18 ans,Masculin,Secondaire,Retraité,2,2,1,11,1.6666666666666667,0,1,0
+Bureau,Nabeul,35-44 ans,Masculin,Post-universitaire,Salarié,1,3,3,15,2.3333333333333335,0,1,0
+Bureau,Sfax,45-54 ans,Féminin,Secondaire,Commerçant,3,5,4,5,4.0,1,0,1
+Abonnée,Gafsa,55 ans et plus,Féminin,Sans instruction,Sans emploi,1,2,1,12,1.3333333333333333,0,1,0
+Abonnée,Gafsa,25-34 ans,Masculin,Post-universitaire,Fonctionnaire,2,2,5,4,3.0,0,1,0
+Passagers,Tunis,45-54 ans,Masculin,Primaire,Fonctionnaire,2,4,1,15,2.3333333333333335,0,1,0
+Passagers,Gafsa,18-24 ans,Féminin,Sans instruction,Salarié,4,2,1,9,2.3333333333333335,0,1,0
+Bureau,Nabeul,35-44 ans,Féminin,Universitaire,Fonctionnaire,5,3,2,7,3.3333333333333335,0,0,0
+Colis,Sfax,35-44 ans,Féminin,Secondaire,Fonctionnaire,2,3,2,10,2.3333333333333335,0,1,0
+Bureau,Sfax,55 ans et plus,Féminin,Sans instruction,Etudiant,1,5,1,13,2.3333333333333335,0,1,0
+Abonnée,Monastir,18-24 ans,Masculin,Sans instruction,Commerçant,1,5,3,8,3.0,0,1,0
+Bureau,Kairouan,55 ans et plus,Masculin,Post-universitaire,Commerçant,5,2,2,12,3.0,0,0,0
+Colis,Tunis,18-24 ans,Masculin,Post-universitaire,Etudiant,5,1,5,19,3.6666666666666665,1,0,0
+Passagers,Monastir,25-34 ans,Masculin,Post-universitaire,Etudiant,4,4,4,1,4.0,1,0,1
+Colis,Kairouan,35-44 ans,Masculin,Universitaire,Fonctionnaire,3,1,2,16,2.0,0,1,0
+Colis,Gafsa,35-44 ans,Féminin,Post-universitaire,Retraité,1,2,1,17,1.3333333333333333,0,1,0
+Colis,Monastir,25-34 ans,Masculin,Sans instruction,Sans emploi,5,2,3,18,3.3333333333333335,0,0,0
+Passagers,Sousse,Moins de 18 ans,Féminin,Post-universitaire,Sans emploi,1,1,4,11,2.0,0,1,0
+Colis,Gafsa,55 ans et plus,Masculin,Primaire,Fonctionnaire,5,4,2,18,3.6666666666666665,1,0,1
+Colis,Kairouan,25-34 ans,Masculin,Post-universitaire,Sans emploi,2,1,3,7,2.0,0,1,0
+Colis,Tunis,55 ans et plus,Masculin,Universitaire,Etudiant,1,5,3,18,3.0,0,1,0
+Abonnée,Kairouan,45-54 ans,Masculin,Primaire,Commerçant,2,3,3,8,2.6666666666666665,0,1,0
+Colis,Monastir,35-44 ans,Masculin,Sans instruction,Sans emploi,1,5,1,6,2.3333333333333335,0,1,0
+Passagers,Monastir,55 ans et plus,Féminin,Sans instruction,Fonctionnaire,3,3,5,7,3.6666666666666665,1,0,1
+Colis,Bizerte,18-24 ans,Féminin,Secondaire,Retraité,4,2,3,10,3.0,0,0,0
+Colis,Tunis,55 ans et plus,Féminin,Primaire,Fonctionnaire,2,4,4,11,3.3333333333333335,0,1,0
+Passagers,Médenine,45-54 ans,Masculin,Secondaire,Salarié,5,1,2,13,2.6666666666666665,0,1,0
+Colis,Gafsa,35-44 ans,Masculin,Primaire,Fonctionnaire,3,4,4,9,3.6666666666666665,1,0,1
+Passagers,Sfax,25-34 ans,Féminin,Primaire,Etudiant,1,1,1,7,1.0,0,1,0
+Colis,Tunis,45-54 ans,Masculin,Universitaire,Commerçant,2,5,1,9,2.6666666666666665,0,1,0
+Passagers,Sfax,35-44 ans,Masculin,Secondaire,Commerçant,1,5,4,13,3.3333333333333335,0,1,0
+Colis,Tunis,55 ans et plus,Féminin,Universitaire,Sans emploi,1,1,5,3,2.3333333333333335,0,1,0
+Colis,Tunis,Moins de 18 ans,Masculin,Primaire,Etudiant,1,4,1,3,2.0,0,1,0
+Abonnée,Kairouan,Moins de 18 ans,Féminin,Sans instruction,Salarié,4,1,1,1,2.0,0,1,0
+Abonnée,Tunis,18-24 ans,Masculin,Primaire,Etudiant,4,2,4,2,3.3333333333333335,0,0,0
+Colis,Bizerte,35-44 ans,Féminin,Universitaire,Fonctionnaire,5,5,1,3,3.6666666666666665,1,0,1
+Colis,Médenine,Moins de 18 ans,Masculin,Secondaire,Etudiant,2,2,5,15,3.0,0,1,0
+Bureau,Monastir,25-34 ans,Masculin,Secondaire,Etudiant,3,5,5,6,4.333333333333333,1,0,1
